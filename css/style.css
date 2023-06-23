@@ -136,7 +136,8 @@ html,body
    padding: 4em 0;
    border: 4px solid #041f28;
    margin: 2em;
-   background-color: #d29927;
+   /* background-color: #d29927; */
+   background-color: aliceblue;
 }
 
 .circle {
@@ -165,7 +166,8 @@ img.icon.calendar{
 .name_section {
    font-weight: bolder;
    font-size:2em; 
-   color:aliceblue; 
+   /* color:aliceblue;  */
+   color:#957D4C;
 } 
 
 
