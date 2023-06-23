@@ -1,0 +1,86 @@
+.videos{
+    height:18em;
+    margin:2em;
+}
+
+.video_card{
+        display: flex;
+        
+}
+
+.video_{
+    margin:2em;
+    width:22em;
+    height: 11em; 
+    z-index: -1; 
+}
+
+.video_info{
+    /* width:100%; */
+    height:40vh;
+}
+.video_title{
+    width:100%;
+    margin-top:2em;
+    font-weight:600;
+    font-size:32px;
+}
+
+.video_description{
+    /* width:50%; */
+    /* margin-left: 2em; */
+    font-weight:600;
+    font-size:1em; 
+}
+
+.enlarge_vid{
+    padding:.5em;
+    margin-top:1em;
+    color: white;
+    background-color: black;
+    font-weight: bolder;
+    border-radius: 10%;
+}
+
+
+
+/* .container_trainings{
+    min-height: 58vh;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+video{
+    margin:2em;
+    width:22em;
+    height: 11em;
+}    */
+
+
+
+
+
+
+
+/* sao too similar
+
+height:50 next to the qat
+
+sao no text...not needed
+
+gender neutral who is qat?
+
+she will send bio of brian and herself for contact
+
+-----------------------------------------
+....they don't have a host or have not been directed to which host to use. 
+
+do we embed videos?
+
+where do videos reside? which poilicies are around it?
+*/

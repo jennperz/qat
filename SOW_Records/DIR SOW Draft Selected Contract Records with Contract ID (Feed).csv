@@ -1,0 +1,808 @@
+ID,LEGACY_ID__C,ZOWNER,OWNERID,SOW_NAME,DIR_DRAFT_DUE_DATE__C,EXPEDITE__C,DIR_CONTRACT_MANAGER_ASSIGNED__C,DIR_CONTRACT_MANAGER_APPROVER__C,ON_HOLD_DURATION_DAYS__C,REASON_FOR_WITHDRAWAL__C,DISCUSSION_REQUIRED__C,CUSTOMER_CONTACT__C,CUSTOMER_ACCOUNT__C,SOW_DRAFT_SCOPE__C,SOW_DRAFT_COMMENTS__C,SOW_DRAFT_DIR_COMMENTS__C,SOW_AGENCY_ACRONYM__C,SOW_ANTICIPATED_BUDGET__C,SOW_ANTICIPATED_END_DATE__C,SOW_ANTICIPATED_START_DATE__C,SOW_ANTICIPATED_RELEASE_DATE__C,DRAFT_STATUS__C,RECORDTYPEID,DRAFT_APPROVED_DATE__C,FILENAME,TYPE,DRAFT_SUBMITTED_DATE__C,STATUS,SOW_Draft_Selected_Contracts,DIR_Contract_Num,SOW_Contracts,SOW_Additional_Contracts,DIR_Contract_ID,DIR_Approved_for_Solicitation__C
+a5p8z00000000NiAAI,DIR-000003,Elizabeth Lopez,0058z000000gL5h,IT Research and Advisory Subscription License Services ,10/23/2015,FALSE,00570000003gjzL,00570000003V3TH,,,FALSE,0037000001Xxf9Y,0017000000Kc3Vi,"The Texas Department of Information Resources? objective is to select
+vendors and services that provide IT Research and Advisory Subscription
+Services to assist DIR in various levels of IT strategic planning, executive
+leadership, consulting and projects that focus on key IT technologies,
+processes and organizational issues.",,"DIR-000023a
+
+Your draft SOW has been reviewed. Since the draft has already been submitted to vendors, DIR will approve your final SOW once the following change is made:
+
+The word ?consulting? is used in SOW section 1. Introduction/Background:
+
+The Texas Department of Information Resources? objective is to select vendors and services that provide IT Research and Advisory Subscription Services to assist DIR in various levels of IT strategic planning, executive leadership, consulting and projects that focus on key IT technologies, processes and organizational issues.
+
+NOTE: The Texas Department of Information Resources is submitting two separate Statements of Work to the IT Research and Advisory Subscription Services vendors.   The Chief Technology Office SOW is focused on selecting vendor(s) that provide IT Research and Advisory Subscription Services to assist DIR in various levels of IT strategic planning, executive leadership, consulting and projects that focus on key IT technologies, processes and organizational issues.   The Office of the Chief Information Security Officer?s SOW is to select a vendor to provide a baseline education of security governance, best practices, policies and architecture to state security practitioners, architects, IT managers and key executives.  These services are separate efforts.
+
+-	All DBITS Contracts prohibit consulting services from being sold through the contract. 
+
+If you have any questions please do not hesitate to contact me directly. Otherwise, I will look forward to the submission of your final SOW with all references to consulting removed. 
+",,300000,,,,Draft Approved,0128z0000004Iqi,9/29/2015,IT Research  Advisory Subscription License SOW.docx,docx,9/11/2015,Item Created,"DIR-TSO-2533;
+DIR-TSO-2535;
+DIR-TSO-2531;
+DIR-TSO-2534;
+DIR-SDD-2497;",DIR-TSO-2533,,"DIR-TSO-2533;
+DIR-TSO-2535;
+DIR-TSO-2531;
+DIR-TSO-2534;
+DIR-SDD-2497;",,
+a5p8z00000000NjAAI,DIR-000004,Joanne Severn,0058z000000gL5h,DCS Strategic Support Assistance,11/19/2015,TRUE,00570000000n6Vt,00570000003V3TH,,,,0037000000WGRLZ,0017000000Kc3Vi,"The objectives for this project are:
+1. Complete detailed HCI technology and service delivery solution design. Facilitate integration and collaboration sessions with the MSI and SCPs to establish an executable service delivery model. 
+2. Based on revised Resource Unit (RU) pricing proposed from service providers, establish an enterprise financial business case and assess the financial impact on the current DCS customers. 
+3. Evaluate and advise DIR on the suitability and feasibility of the proposed hybrid cloud service delivery model and associated pricing as it relates to the current contract.
+4. Create an integrated schedule with checkpoints and milestones to implement the service delivery model and pricing model
+",,"DIR-000043
+
+Thank you for submitting your Statement of Work (SOW) for DCS Strategic Support.  DIR has reviewed your document and would request that the Anticipated Schedule be updated and the document submitted for final approval.  ",,360000,4/30/2016,11/30/2015,11/10/2015,Draft Approved,0128z0000004Iqi,11/18/2015,dcs_strategic_support_assistance_hci_sow__executed.pdf,pdf,11/16/2015,Item Created,"DIR Contract #1 	DIR-SDD-1964
+DIR Contract #2 	DIR-SDD-1968
+DIR Contract #3 	DIR-SDD-2115
+DIR Contract #4 	DIR-SDD-1982
+DIR Contract #5 	DIR-SDD-1998
+DIR Contract #6 	DIR-SDD-1978
+",DIR-SDD-1964,"DIR Contract #1 	DIR-SDD-1964
+DIR Contract #2 	DIR-SDD-1968
+DIR Contract #3 	DIR-SDD-2115
+DIR Contract #4 	DIR-SDD-1982
+DIR Contract #5 	DIR-SDD-1998
+DIR Contract #6 	DIR-SDD-1978
+",,,
+a5p8z00000000NkAAI,DIR-000005,Elizabeth Lopez,0058z000000gL5h,Amendment 1 to Gartner SOW,1/28/2016,FALSE,00570000003flmk,00570000003V3TH,,,,0037000001Xxf9Y,0017000000Kc3Vi,,,"DIR-000048
+Amendment to SOW DIR-000001 (draft) ",,,,,,Draft Approved,0128z0000004Iqi,12/16/2015,Amendment 1 to Gartner SOW 000023.pdf,pdf,12/11/2015,Item Created,,,,,,
+a5p8z00000000NlAAI,DIR-000006,Mike Tyler,0058z000000gL5h,Enterprise Solution Architect,12/23/2015,TRUE,00570000002UXEa,00570000003V3TH,,,FALSE,00370000019dRd2,0017000000Kc3Vi,,,DIR-000050,,300000,,,,Draft Approved,0128z0000004Iqi,12/23/2015,bar__sow_122015_v22_clean.docx,docx,12/18/2015,Item Created,"DIR-SDD-1982;
+DIR-SDD-2081;
+DIR-SDD-2150;
+DIR-SDD-2076;
+DIR-SDD-2056;
+DIR-SDD-1974;
+DIR-SDD-1978;
+DIR-SDD-1968;
+DIR-SDD-1969;
+DIR-SDD-2139;
+DIR-SDD-2157;
+DIR-SDD-1977;
+DIR-SDD-2122;
+DIR-SDD-2039;
+DIR-SDD-1972;
+DIR-SDD-2042;
+DIR-SDD-1965;
+DIR-SDD-2040;
+DIR-SDD-1964;
+DIR-SDD-2000;
+DIR-SDD-2047;
+DIR-SDD-2070;
+DIR-SDD-2044;
+DIR-SDD-2077;
+DIR-SDD-2152;
+DIR-SDD-2160;
+DIR-TSO-2518;
+DIR-TSO-2733;
+DIR-TSO-2521;
+DIR-SDD-2263;
+DIR-SDD-2513;
+DIR-SDD-2500;
+DIR-TSO-3083;
+DIR-TSO-2621;
+DIR-TSO-2735;
+DIR-TSO-2724;
+DIR-TSO-2523;
+DIR-TSO-2539;
+DIR-TSO-2725;
+DIR-SDD-2052;
+DIR-TSO-2619;
+DIR-TSO-2623;
+DIR-SDD-2186;
+DIR-TSO-2616;
+DIR-TSO-2603;
+",,"DIR-SDD-1982;
+DIR-SDD-2081;
+DIR-SDD-2150;
+DIR-SDD-2076;
+DIR-SDD-2056;
+DIR-SDD-1974;
+DIR-SDD-1978;
+DIR-SDD-1968;
+DIR-SDD-1969;
+DIR-SDD-2139;
+DIR-SDD-2157;
+DIR-SDD-1977;
+DIR-SDD-2122;
+DIR-SDD-2039;
+DIR-SDD-1972;
+DIR-SDD-2042;
+DIR-SDD-1965;
+DIR-SDD-2040;
+DIR-SDD-1964;
+DIR-SDD-2000;
+DIR-SDD-2047;
+DIR-SDD-2070;
+DIR-SDD-2044;
+DIR-SDD-2077;
+DIR-SDD-2152;
+DIR-SDD-2160;
+DIR-TSO-2518;
+DIR-TSO-2733;
+DIR-TSO-2521;
+DIR-SDD-2263;
+DIR-SDD-2513;
+DIR-SDD-2500;
+DIR-TSO-3083;
+DIR-TSO-2621;
+DIR-TSO-2735;
+DIR-TSO-2724;
+DIR-TSO-2523;
+DIR-TSO-2539;
+DIR-TSO-2725;
+DIR-SDD-2052;
+DIR-TSO-2619;
+DIR-TSO-2623;
+DIR-SDD-2186;
+DIR-TSO-2616;
+DIR-TSO-2603;
+",,,
+a5p8z00000000NmAAI,DIR-000007,George Monnat,0058z000000gL5h,Identity and Access Management IT Assessment & Planning,3/3/2016,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,00370000013TURF,0017000000Kc3Vi,"Vendors responding to this SOW must examine and report on the relative costs and benefits of various forms of and approaches to identification and access management, including multifactor authentication and include a strategy by which the State of Texas can better secure its information resources, and DIR may most effectively negotiate for bulk purchase across agencies to lower costs to the state.  The report must include an analysis of the advantages and disadvantages of each approach along with associated challenges, costs, risks and scalability factors.",Immediate attention to this is requested by CISO,"DIR-000051
+
+On hold.  Per discussion with George Monnat on 1/27/16, changes to be made to SOW and re-submit.  2/11/16 George Monnat resubmitted Draft SOW, all items were addressed.  2/16/16 e-mail to George advising Draft SOW is approved.  ",,130000,,,,Draft Approved,0128z0000004Iqi,2/18/2016,Draft DBITS Assessment IAM SOW.docx,docx,1/21/2016,Item Created,"DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1977 - RFD & Associates, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2510 - KPMG LLP;DIR-SDD-1976;",,"DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1977 - RFD & Associates, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2510 - KPMG LLP;",DIR-SDD-1976;,,
+a5p8z00000000NnAAI,DIR-000009,Joanne Severn,0058z000000gL5h,The Greentree Group - Amend 2 DIR-SDD-1978-SOW6,5/3/2016,FALSE,00570000000n6Vt,00570000003V3TC,,,FALSE,0037000000WGRLZ,0017000000Kc3Vi,There is no change in cost for this amendment.  This amendment 2 is to repurpose Deliverable 11 with no change to pricing. The Greentree Group along with Symbio Ecosystems as a subcontractor will provide DCS Strategic Support Assistance for Hybrid Cloud Initiative (HCI) for DIR as indicated in the Statement of Work,,"DIR-000053
+EM: Changed estimated value to $1 to allow final submitted as Amendment. Current application requires a $ value.",,1,,,,Draft Approved,0128z0000004Iqi,3/30/2016,DCS DIR-SDD-1978-SOW6-DCS Amendment.docx,docx,3/22/2016,Item Created,"DIR-SDD-1978 - The Greentree Group, Inc.;",,"DIR-SDD-1978 - The Greentree Group, Inc.;",,,
+a5p8z00000000NoAAI,DIR-000010,Joanne Severn,0058z000000gL5h,The Greentree Group - Amendment 3 - DIR-SDD-1978-SOW6,5/16/2016,FALSE,00570000000n6Vt,00570000003V3TC,,,,0037000000WGRLZ,0017000000Kc3Vi,"This amendment is to revise three deliverables (4, 6 and 10) and to increase the original SOW total by $55,000.  This increase was due to a number of factors that included two major restructuring of the pricing model and the need to engage in extensive negotiations with MSI regarding their detailed solution design. Also, the major restructuring of the pricing model with SCP was a result of unforeseen impact to the Agencies and was an effort to minimize the impact to the agencies while retaining the health of the program going forward. Due to DCS business needs, DIR revised these three deliverables.  ","This is amendment 3 to an existing SOW with The Greentree Group.  I had to select two other vendors, but only to get this SOW amendment to go through the portal.",DIR-000055: ,,55000,,,,Draft Approved,0128z0000004Iqi,4/7/2016,DCS DIR-SDD-1978-SOW6-DCS Amendment 3 draft.pdf,pdf,4/4/2016,Item Created,"DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-1998 - Sistema Technologies, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;",,"DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-1998 - Sistema Technologies, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;",,,
+a5p8z00000000NpAAI,DIR-000061,George Monnat,0058z000000gL5h,Texas.gov Strategic Support -- DBITS ,7/1/2016,FALSE,00570000003flmk,00570000003V3TH,,,FALSE,00370000013TURF,0017000000Kc3Vi,"Strategic Support for procurement initiatives planned within the Texas.gov program, select from existing DBITS vendors",Time is of the essence and the reprocurement project is well under way.,"5/26/16 E-mail to Customer advising approved:
+Thank you for submitting your SOW draft for DIR review. This is to inform you that the above referenced draft SOW is approved.   
+
+Please note, the following item(s) DO NOT affect approval but are recommendations for consideration that could strengthen your SOW.
+
+?	Section 2 ? recommend adding a hyperlink to Texas Government Code Chapter 2054
+?	Section 11 ? recommend adding deliverable names to price table
+
+",,300000,,,,Draft Approved,0128z0000004Iqi,5/26/2016,Texas gov Strategic Support SOW 05202016.docx,docx,5/20/2016,Item Created,"DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1974 - Neos Consulting Group, Llc;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2041 - CGI Technologies and Solutions, Inc.;DIR-SDD-2187 - CSG Government Solutions, Inc.;DIR-SDD-2184 - Cognizant Technology Solutions U.S. Corporation;None",,"DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1974 - Neos Consulting Group, Llc;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2041 - CGI Technologies and Solutions, Inc.;DIR-SDD-2187 - CSG Government Solutions, Inc.;DIR-SDD-2184 - Cognizant Technology Solutions U.S. Corporation;",None,,
+a5p8z00000000NqAAI,DIR-000062,Elizabeth Lopez,0058z000000gL5h,SOW 000023 - Amendment 2 to Gartner's IT Research and Advisory Subscription License Services SOW,8/24/2016,FALSE,00570000003gjzL,00570000003gjzL,,,,0037000001Xxf9Y,0017000000Kc3Vi,"This Amendment Number 2 to the Research and Advisory Subscription Services SOW agreement with Gartner is for an access level upgrade from ?Gartner for IT Leaders Reference? to ?Gartner for IT Leaders Advisor? access level for Dale Richardson. This amendment does not change the scope the SOW. The fee for the upgraded account is prorated based on the term of July 2016 through October 31, 2016.  
+",Thank you!,,,4000,,,,Draft Approved,0128z0000004Iqi,7/15/2016,DIR-CTO-RA-0915 D. Richardson license upgrade.pdf,pdf,7/13/2016,Item Created,"DIR-TSO-2531 - Gartner, Inc.;",,"DIR-TSO-2531 - Gartner, Inc.;",,,
+a5p8z00000000NrAAI,DIR-000064,Dana Collins,0058z000000gL5h,DIR e-Procurement automation,8/29/2016,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,0037000001KMrt6,0017000000Kc3Vi,"Automate and enhance currently manual procurement and contracting functions through integration with existing tools (SalesForce, SharePoint, Docusign) to include interface with outside entities.","I am attaching the SOW draft.  I will submit Attachment A-C separately as they contain excel and word files and can't currently be combined into one upload.
+
+Requesting ASAP review.  DIR Technology Sourcing Office has had multiple internal reviews of this SOW and will not be a first time review of the document, just first time being submitted through portal.  
+
+Intend on sending to a minimum of 12 of the vendors selected","7/19/2016 Statement of Work and has been reviewed and is approved.   The following comments are being provided regarding the draft SOW document. You may want to correct the issues identified below before issuing the SOW request to vendors.  These comments are being provided as a courtesy that could strengthen your SOW and are items for your consideration.  
+
+?	Section 2.1, Should this reference Statewide Procurement Division (SPD) instead of TPASS?  Effective June 1, 2016, the Texas Procurement and Support Services Division at the Comptroller?s Office was renamed and split into two separate divisions.   
+
+?	Section 3.5, revise from Conduct A GAP/FIT to Conduct a GAP/FIT
+
+?	Deliverable 3, Solicitation Library, 4th bullet, suggest revising to ""Integration with existing Salesforce.com Contracts related applications.?
+
+?	Section 5.3.  second line, should there be a period between ?Deliverable 9, Final Sign-off? instead of a comma?
+
+?	Section 9.1.7, Revise to read:  Written Weekly Status Reports which shall meet the following standards:
+
+?	Section 9.1.7, paragraph a)  Do you need to insert the specific day? Or reword to ""predetermined day""
+
+?	Section 10.1, 6th sentence.  Recommend revising such as ?Awarded Vendor shall provide?the form of a use guide in hardcopy or electronic format.?
+
+?	Section 15.0, Additional Customer Terms and Conditions, please confirm this is required for this SOW.
+
+?	Section 17.0 Vendor response, renumber subsections.  
+
+?	Attachment A, pages 4 and 5, double check Deliverable references.  Some under Contract Administration appear to be part of Deliverable 4 instead of Deliverable 7.  (See notes on attached excel document)
+
+?	Attachment B, recommend inserting page numbers.
+
+?	Attachment B, page 2, Notes, *** replace comma with period on second sentence.  
+
+If you have any questions please do not hesitate to contact me. Otherwise, we will look forward to the submission of the final SOW once it has been completed. 
+",,883000,,,,Draft Approved,0128z0000004Iqi,7/19/2016,eProcurement SOW Joint Draft07142016.docx,docx,7/18/2016,Item Created,"DIR-SDD-1964 - Allied Consultants, Inc.;DIR-SDD-1965 - Applied Information Sciences, Inc.;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1969 - Go IT Services, Inc.;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2075 - ConnectTel, Inc.;DIR-SDD-2178 - Databank IMX LLC dba DB IMX LLC;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1974 - Neos Consulting Group, Llc;DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-1985 - Objectwin Technology, Inc.;DIR-SDD-2139 - PMCS Services, Inc.;DIR-SDD-1977 - RFD & Associates, Inc.;DIR-SDD-2152 - SmartBridge, LLC;DIR-SDD-2040 - Visionary Integration Professionals LLC (VIP);DIR-SDD-2081 - Sense Corp;",,"DIR-SDD-1964 - Allied Consultants, Inc.;DIR-SDD-1965 - Applied Information Sciences, Inc.;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1969 - Go IT Services, Inc.;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2075 - ConnectTel, Inc.;DIR-SDD-2178 - Databank IMX LLC dba DB IMX LLC;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1974 - Neos Consulting Group, Llc;DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-1985 - Objectwin Technology, Inc.;DIR-SDD-2139 - PMCS Services, Inc.;DIR-SDD-1977 - RFD & Associates, Inc.;DIR-SDD-2152 - SmartBridge, LLC;DIR-SDD-2040 - Visionary Integration Professionals LLC (VIP);DIR-SDD-2081 - Sense Corp;",,,
+a5p8z00000000NsAAI,DIR-000079,Maureen Vale,0058z000000gL5h,TEX-AN- NG FY16-FY18 Benchmarking SOW,9/26/2016,FALSE,00570000003flmk,00570000003flmk,,,FALSE,0037000001tQ5uG,0017000000Kc3Vi,Vendor will provide DIR a benchmarking of market prices and service levels for TEX-AN services. The aim of the benchmarking is to ensure the TEX-AN prices and SLAs remain competitive.  Vendor will provide benchmarking for both market prices and service levels for TEX-AN services on an ongoing basis per the schedule provided in this Statement of Work. The Vendor will ensure that deliverables provided are understandable and accurate to both TEX-AN service providers and DIR Stakeholders. ,"Please review SOW sooner than 30 days, if possible,","Per Maureen Vail email from 8/16/2016
+""These changes will be incorporated prior to the release of the SOW""
+
+Reviewer response 8/16/2016
+Thank you for submitting your SOW draft for DIR review. 
+
+Please address the following for approval:
+?	On page 7, under ?Pricing? in the ?Vendor Fees? table, please change ?Services? column title to ?Deliverables? since the benchmark is the deliverable 
+
+Resubmission of the draft SOW is not necessary.  Simply respond with acknowledgement that this change will be incorporated prior to the release of the SOW.
+
+Also, the following item(s) DO NOT affect approval but are recommendations for consideration that could strengthen your SOW.
+
+?	Recommend adding subsection for evaluation criteria/percentages after ?Vendor Response Details and Resources? 
+?	Recommend adding ?End of Statement of Work ? at the end of the document
+
+Attached is the draft SOW with comments for reference. Please let me know if you have any questions. 
+
+",,300000,,,,Draft Approved,0128z0000004Iqi,8/16/2016,SOW - Benchmarking TEX-AN NG FY16 - FY18.docx,docx,8/12/2016,Item Created,"DIR-SDD-2043 - Accenture, LLP;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-2510 - KPMG LLP;DIR-SDD-1998 - Sistema Technologies, Inc.;",,"DIR-SDD-2043 - Accenture, LLP;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-2510 - KPMG LLP;DIR-SDD-1998 - Sistema Technologies, Inc.;",,,
+a5p8z00000000NtAAI,DIR-000081,Sharon Blue,0058z000000gL5h,IT RESEARCH AND ADVISORY SUBSCRIPTION SERVICES,10/11/2016,FALSE,00570000003V3TH,00570000003V3TH,,,TRUE,0037000001zqyHs,0017000000Kc3Vi,"DIR employs approximately 200 employees. The agency?s mission is to provide technology leadership, solutions and value to Texas state government, education and local government entities to enable and facilitate the fulfillment of their core missions.   DIR utilizes IT Research and Advisory Subscription Services to assist in this effort.",SOW issuance date is planned for September 6.  There are only 3 available vendors for this contract.,"9/12/16 - Your revised draft SOW has been reviewed and is now approved.   As a reminder following execution of the final SOW by the agency and vendor, you must submit the signed SOW through the Portal. DIR must sign the statement of work before it becomes valid and any money is paid to a vendor.
+
+9/9/16 The above referenced draft SOW has been reviewed by DIR and is on hold pending the following items being corrected:
+ 
+?	Section 1 ? Introduction/Background, both paragraphs appear to be the same.  Consider removing the 2nd paragraph or provide additional insight about the Chief Technology Office as it relates to this SOW.
+?	Section 6 ? Invoices, update reference to Appendix A, Section 7.J.
+ 
+Additionally,  DIR is providing the following comments regarding the draft SOW document. You may want to correct the issues identified below before issuing the SOW request to vendors.  These comments are being provided as a courtesy that could strengthen your SOW and are items for your consideration.
+ 
+?	Section 4 ? Pricing, second paragraph ? first sentence is likely not applicable to this SOW (Previous SOW was for both CTO and CISO).
+?	Section 4 ? Pricing, second paragraph, third sentence, revise to read: DIR reserves the right to procure individual services offered from multiple providers.  
+?	Section 4 ? Pricing, recommend creating a separate section to address Change Management.
+?	Section 7 ? Please verify whether ?Final SOW? should read ?Vendor Response:  Vendor shall submit a response in electronic format??
+?	Roles and Responsibilities ? not listed as a specific section.  Section 3, Vendor Response does address this somewhat.  Should there be specific R&R?
+ 
+Once the draft SOW has been updated, please resubmit for DIR?s review and approval.  Please note that the DIR due date for approval of your draft SOW is on hold until we receive a revised copy of your SOW.    Should you have any questions please let me know.
+ 
+",,400000,,,,Draft Approved,0128z0000004Iqi,9/12/2016,DIR Research IT DRAFT SOW.pdf,pdf,8/29/2016,Item Created,"DIR-TSO-2531 - Gartner, Inc.;DIR-TSO-2533 - The Advisory Council, Inc.;DIR-TSO-2534 - The Corporate Executive Board Company;",,"DIR-TSO-2531 - Gartner, Inc.;DIR-TSO-2533 - The Advisory Council, Inc.;DIR-TSO-2534 - The Corporate Executive Board Company;",,,
+a5p8z00000000NuAAI,DIR-000102,,0058z000000gL5h,Project Management Svcs for DIR OCISO,10/24/2016,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,0037000000TcsoY,0017000000Kc3Vi,"The services under this statement of work (SOW) would serve as a program management function that includes providing oversight of the OCISO programs, assisting with marketing efforts, facilitating the deployment of these services to DIR customers, working with the vendors to ensure that reports are provided to the OCISO regarding participation, adoption of the OCISO programs and general project status.",DIR POC for this SOW Claudia Escobar and Suzi Hilliard,"The above referenced draft SOW has been reviewed and is approved.  DIR is providing the following comments regarding the draft SOW document. You may want to correct the issues identified below before issuing the SOW request to vendors.  These comments are being provided as a courtesy that could strengthen your SOW and are items for your consideration.
+
+?	Section 12, Response Submission Requirements and Schedule, 2nd bullet reads: Final SOW Vendor must submit final SOW in electronic format.  Please verify whether ?Final SOW? should be somehow referenced as Vendor Response:  Vendor shall submit a response in electronic format? 
+",,250000,,,,Draft Approved,0128z0000004Iqi,9/14/2016,Deliverables-Based Information Technology Services Program Manager_Final Draft.docx,docx,9/12/2016,Item Created,"DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2153 - Soal Technologies, LLC;",,"DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2153 - Soal Technologies, LLC;",,,
+a5p8z00000000NvAAI,DIR-000103,Mike Labinski,0058z000000gL5h,SOW for MSI Strategic Support,9/23/2016,TRUE,00570000003V3TH,00570000003V3TH,,,FALSE,0037000001ho7XH,0017000000Kc3Vi,The Texas Department of Information Resources (DIR) seeks a qualified vendor (Vendor) to provide Strategic Support for procurement initiatives planned for the Multi-Sourcing Integrator (MSI) role. This procurement is independent of any and all other procurement related activity(ies). DIR intends to make a single award for this procurement.,Expedited review requested per the attached memo.,"The above referenced SOW has been review and is approved.  DIR is providing the following comments regarding the expedited draft SOW document. You may want to correct the item identified below before issuing the SOW request to vendors.  
+
+?	To be consistent with the remainder of the document, recommend renumbering the subsections in Section 14 as 14.1, 14.2 and 14.3.",,800000,,,,Draft Approved,0128z0000004Iqi,6/16/2017,MSI Strategic Support SOW.docx,docx,9/20/2016,Item Created,"DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-2043 - Accenture, LLP;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2510 - KPMG LLP;DIR-SDD-1974 - Neos Consulting Group, Llc;",,"DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-2043 - Accenture, LLP;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2510 - KPMG LLP;DIR-SDD-1974 - Neos Consulting Group, Llc;",,,
+a5p8z00000000NwAAI,DIR-000107,George Monnat,0058z000000gL5h,Amendment 1 Texas gov Strategic Support SOW ,12/27/2016,FALSE,00570000003flmk,,,See revised submittal on DIR-000114,FALSE,00370000013TURF,0017000000Kc3Vi,"Amend the original SOW to include specific timelines for deliverables, to add two names of vendor project team 
+members; and, to commit to requiring optional Deliverables 4 & 5.  This does not change the base value of the 
+SOW. 
+Award is with Loblolly DIR-SDD-1982","Please note that the first due date for a deliverable is 11/21, with a DIR response due out by 11/29
+Reference DIR-000061 (Elizabeth Lopez reviewed the original SOW)","Thank you for the clarification and compliance with TGC 2254. The above referenced draft SOW Amendment is approved.   
+
+Please note, the following item(s) DO NOT affect approval but are recommendation(s) for consideration that could strengthen your draft.
+
+?	DIR recommends adding a reference to the amendment indicating TGC 2254 is not applicable for this SOW. While it may not have been included in the SOW, going forward, we are advising agencies to add further clarification related to ?professional and consulting services? as appropriate. 
+
+Thank you,
+Elizabeth Lopez, Contract Manager
+Texas Department of Information Resources
+www.dir.texas.gov  |   @TexasDIR
+512.936-1428| elizabeth.lopez@dir.texas.gov  
+Visit DIR?s Current and Upcoming Contracting Initiatives
+Visit Texas.gov, the Official Website of the State of Texas  
+
+
+From: Mary Vickery 
+Sent: Wednesday, November 23, 2016 8:47 AM
+To: George Monnat <george.monnat@dir.texas.gov>; Elizabeth Lopez <elizabeth.lopez@dir.texas.gov>
+Subject: RE: Draft SOW DIR-000107
+
+Just my two cents worth, but could we add a reference to the amendment referencing TGC 2254 is not applicable for this SOW?
+
+Mary
+
+
+From: George Monnat 
+Sent: Wednesday, November 23, 2016 7:04 AM
+To: Elizabeth Lopez <elizabeth.lopez@dir.texas.gov>
+Cc: Mary Vickery <mary.vickery@dir.texas.gov>
+Subject: RE: Draft SOW DIR-000107
+
+Thank you, Elizabeth.
+
+Please note that the originally approved SOW had these same project position titles listed in Exhibit A.
+
+On that basis, and in consideration of and in compliance with TGC 2254, I ask that we not require the vendor to make change to these titles.
+
+
+Regards,
+George
+
+George R. Monnat, C.P.M., CTPM, CTCM
+Strategic Contract Manager ? Texas.gov
+Enterprise Contract Management
+Texas Department of Information Resources
+
+E-mail: george.monnat@dir.texas.gov
+Office:   512.463.8497
+FAX:       512.475.4759
+
+ 
+Visit Texas.gov, the Official Website of the State of Texas
+
+From: Elizabeth Lopez 
+Sent: Tuesday, November 22, 2016 9:08 PM
+To: George Monnat <george.monnat@dir.texas.gov>
+Cc: Mary Vickery <mary.vickery@dir.texas.gov>
+Subject: Draft SOW DIR-000107
+
+Hello George,
+
+Thank you for submitting your SOW draft for DIR review. This is to inform you that the above referenced draft SOW Amendment will be approved pending the following:
+
+?	The terms ?consulting/consultants? are referenced in this SOW.  As a reminder,  ?consulting services? are not allowed through DBITS contracts. Please confirm ?consulting services? as defined in Texas Government Code 2254 are not part of this SOW Agreement. 
+?	As ?consulting services? has a specific definition in Texas Government Code 2254, DIR recommends clarifying project member roles as Project Advisor(s) or Subject Matter Expert(s) or including a statement that indicates the use of the term ?consultant? is not intended to be used as defined in Texas Government Code 2254.
+
+Thank you,
+Elizabeth Lopez, Contract Manager
+Texas Department of Information Resources
+www.dir.texas.gov  |   @TexasDIR
+512.936-1428| elizabeth.lopez@dir.texas.gov  
+Visit DIR?s Current and Upcoming Contracting Initiatives
+Visit Texas.gov, the Official Website of the State of Texas  
+",,545000,,,,Draft Withdrawn,0128z0000004Iqo,,Draft Amendment 1 Strategic Support SOW DIR-SDD-1982-SOW1-TGOV.docx,docx,11/8/2016,Item Created,"DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1964 - Allied Consultants, Inc.;DIR-SDD-1965 - Applied Information Sciences, Inc.;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1972 - MicroAssist, Inc.;DIR-SDD-1974 - Neos Consulting Group, Llc;",,"DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1964 - Allied Consultants, Inc.;DIR-SDD-1965 - Applied Information Sciences, Inc.;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1972 - MicroAssist, Inc.;DIR-SDD-1974 - Neos Consulting Group, Llc;",,,
+a5p8z00000000NxAAI,DIR-000112,Sharon Blue,0058z000000gL5h,CRM Single View of the Customer,2/8/2017,FALSE,00570000003V3TH,,,DIR has internalized this work and does not wish to pursue this SOW.,FALSE,0037000001zqyHs,0017000000Kc3Vi,"Responses to this SOW will enable selection of a vendor to provide Application Development and IT Assessment and Planning Services for the CRM Single View project for DIR?s internal technology systems.
+
+The scope of services (deliverables) includes:  
+- Requirements clarification and elaboration; design; build; test; and possibly (depending on cost 
+  of services) implement a solution; 
+- Provide knowledge transfer, 
+- Schedule and conduct regular status meetings; and
+- Produce bi-weekly status report.
+","Upload for Craig Myers, Project Mgr. ","1/25/17 - revised draft SOW uploaded as additional document.
+
+Your draft SOW ID# DIR-000112 has been reviewed and is on hold until the following changes are made:
+
+?	Section 4.2, Table 1, Deliverables and Acceptance Criteria.  Acceptance Criteria referenced in the table in particular 3.3 and 3.4 need to be better defined.
+?	Section 5.1, General Responsibilities, first sentence, replace ?job? with ?SOW?
+?	Section 8.1, Period of Performance.  Recommend removing paragraphs B and C and replace with ?The period of performance for this service is from date of award through August 1, 2017.?
+?	Section 9, Additional Customer Terms and Conditions, delete this section as it states there are no additional terms and conditions.
+?	Section 10.1, Response Formatting, Item 3 ? Company Information ? this seems a bit excessive.  Recommend reviewing and revising.
+?	Section 10.1, Response Formatting, Item 5 ? Key Personnel, 3rd bullet has information included that should be addressed under a separate item:  ? Vendor must submit a staffing plan for this project. If not all positions are currently filled, Vendor must submit the qualification requirements for that position. In addition, a project organizational chart with all positions proposed for this project must be submitted. ?Vendor must briefly state why it believes its proposed services best meet the project?s objectives and SOW requirements, and Vendor also must concisely describe any additional features, aspects, or advantages of its product and services in any relevant area not covered elsewhere in its SOW?
+?	Section 10.1, Response Formatting, Item 9 ? Pricing Breakdown Sheet:
+o	Table 2, Remove the title ?Labor Costs?.  Also, Remove the column ""Level of Effort (Man Hours)"".  Pricing is based upon deliverables and not hours.  You may request pricing as outline in Table 3 for comparison purposes in the event a change order is needed.
+o	Table 3, remove  the title ?Alternate View?.  Recommend adding a note advising any additional services shall be quoted as a deliverables based IT service at a firm fixed price inclusive of any and all additional fees or charges. Pricing for such additional services shall be based upon hourly rates for all personnel classifications.  Vendor shall provide the hourly rates in Table 3.
+o	Table 4, Software Costs ? delete in its entirety.  DBITS contracts do not allow for the purchase of hardware or software.
+o	Table 5, Other Expenditures ? delete table.  DIR is requesting a firm fixed priced based upon the deliverables stated in Table 1.
+
+You may want to correct the issues identified below before issuing the SOW request to vendors.  These comments are being provided as a courtesy that could strengthen your SOW and are items for your consideration.
+
+?	Section 2, Background, first bullet change to read ?including network security.?
+?	Section 2, Background, sixth bullet ? confirm the word standards needs to be underlined
+?	Section 4.3, Deliverables Expectation Document, first paragraph, should it state just DIR instead of DIR contract management?
+?	Section 10.1, Response Formatting, Item 6, 4th bullet, capitalize the word ?experience? to be consistent with the other bulleted items.
+
+Please resubmit the draft SOW to address this for DIR to finalize the draft review approval. Please note that the DIR due date for approval of your draft SOW is on hold until we received a revised copy of your SOW.
+",,100000,,,,Draft Withdrawn,0128z0000004Iqo,,DBITS_SOW - CRM Single View (DRAFT).docx,docx,12/16/2016,Item Created,"DIR-SDD-1974 - Neos Consulting Group, Llc;DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2041 - CGI Technologies and Solutions, Inc.;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2081 - Sense Corp;",,"DIR-SDD-1974 - Neos Consulting Group, Llc;DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-2041 - CGI Technologies and Solutions, Inc.;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2081 - Sense Corp;",,,
+a5p8z00000000NyAAI,DIR-000113,Dana Collins,0058z000000gL5h,DCS Consolidation Report,12/29/2016,TRUE,00570000003V3TH,00570000003V3TH,,,FALSE,0037000001KMrt6,0017000000Kc3Vi,"Seeking a qualified vendor (?Vendor?) to provide assistance with preparing the legislatively mandated annual Data Center Services (DCS) Consolidation Measurement Report, referred to as Consolidation Report.",,,,51000,,,,Draft Approved,0128z0000004Iqi,12/22/2016,DCS Consolidation Report Assistance SOW 12-22-16.docx,docx,12/22/2016,Item Created,"DIR-SDD-2043 - Accenture, LLP;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2510 - KPMG LLP;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-1974 - Neos Consulting Group, Llc;",,"DIR-SDD-2043 - Accenture, LLP;DIR-SDD-2042 - Gartner, Inc.;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-2510 - KPMG LLP;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-1974 - Neos Consulting Group, Llc;",,,
+a5p8z00000000NzAAI,DIR-000114,George Monnat,0058z000000gL5h,Revised Draft Amendment 1 Strategic Support SOW DIR-SDD-1982-SOW1-TGOV,2/16/2017,FALSE,00570000003flmk,00570000003flmk,,,FALSE,00370000013TURF,0017000000Kc3Vi,"Amend the original SOW to include specific timelines for deliverables, to add two names of vendor project team 
+members; and, to remove optional Deliverables 4 & 5.  Award is with Loblolly DIR-SDD-1982
+Reference: DIR-000061",This is a revised submittal (see also DIR-000107).  Recommendation to include language indicating TGC 2254 is not applicable to this SOW is noted (per email dated 11/23 -- E. Lopez to G. Monnat),"Please note, the following item does NOT affect approval but is recommended for consideration to strengthen your draft.
+?	On page 3, change -  NOTE:  DIR has determined not to continue with Deliverables #4 and #5 until further notice.
+to - DIR Deliverables #4 and #5 are omitted and do not apply to this SOW at this time.
+",,375744.93,,,,Draft Approved,0128z0000004Iqi,6/22/2017,Amendment 1 Strategic Support SOW DIR-SDD-1982-SOW1-TGOV.docx,docx,1/4/2017,Item Created,"DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1964 - Allied Consultants, Inc.;DIR-SDD-1965 - Applied Information Sciences, Inc.;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1972 - MicroAssist, Inc.;DIR-SDD-1974 - Neos Consulting Group, Llc;",,"DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1964 - Allied Consultants, Inc.;DIR-SDD-1965 - Applied Information Sciences, Inc.;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-1972 - MicroAssist, Inc.;DIR-SDD-1974 - Neos Consulting Group, Llc;",,,
+a5p8z00000000O0AAI,DIR-000124,Sharon Blue,0058z000000gL5h,Consolidated Customer Scorecard and Satisfaction Measurement Tool ,4/19/2017,FALSE,00570000003V3TH,,,DIR has internalized this work and does not wish to pursue this SOW.,FALSE,0037000001zqyHs,0017000000Kc3Vi,"The goal of this SOW is to produce a CCS for DIR to elicit and collect Customer feedback, limit survey frequency, and minimize Customer?s time commitment to complete surveys. The CCS should be configured in a manner that will increase Customer responses and provide reliable measurement results, capture data related to DIR?s performance measures and produce meaningful survey results.
+
+The Awarded Vendor will be expected to assess the current DIR customer survey tools and processes, then design, and develop / configure and implement a comprehensive CCS that meets the requirements described in this SOW
+
+
+","CCS SOW submitted on behalf of Craig Myers for Lorie Ramirez, Director, DIR Customer Service Operations","Your draft SOW has been reviewed and is approved.  Please note one of the contracts selected to solicit, DIR-SDD-2150 for Silotech Group, Inc, expired 3/8/17 with no renewal extensions remaining.  Based on the estimated budget for this SOW the remaining three vendors do meet the threshold requirements of the SOW and are within scope.  Should you decide to solicit additional vendors, please let us know so we can ensure it is within the scope of the SOW.
+ 
+DIR is providing the following comments regarding the draft SOW document. You may want to correct the issues identified below before issuing the SOW request to vendors.  These comments are being provided as a courtesy that could strengthen your SOW and are items for your consideration.
+
+?	Section 1, Introduction ? consider updating to include customers added with Senate Bill 20, e.g. Assistance Organizations.  Also, review 3rd bullet for Cooperative and Enterprise Contract Administration as this includes a broader customer base than state entities, perhaps revise to read ?DIR Customers??  
+?	Section 2, Background, 8th paragraph identifies tools available but allows for recommendations for other methods or tools.  Add language such as:  If Awarded Vendor solution contains products that are required as part of the overall solution, DIR will consider these products and if approved will provide them as Owner Furnished.  The cost for these products should not be built into the Vendors project cost as DIR.
+?	Section 3.5, Reports and Meetings.  Per our conversation, please revise this section to clearly identify both the required reports and required meetings.  
+?	Section 5, Roles and Responsibilities, Move the last paragraph under 5.1, DIR Responsibilities to 5.2, Awarded Vendor Responsibilities.  
+?	Section 10 ? Response Submission Requirements, Item F. Vendor?s Proposed Pricing, Table for additional services was not included as stated.
+?	Change Orders for Additional Services.  Consider adding language indicating any changes to the scope or cost would must be in the form of a written amendment and signed by both parties.
+
+If you have any questions please do not hesitate to contact me. Otherwise, we will look forward to the submission of the final SOW once it has been completed. ",,100000,,,,Draft Withdrawn,0128z0000004Iqo,,DRAFT Consolidated Customer Scorecard_20170223.docx,docx,3/8/2017,Item Created,"DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1998 - Sistema Technologies, Inc.;DIR-SDD-2150 - Silotech Group, Inc;",,"DIR-SDD-2044 - Deloitte Consulting LLP;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1998 - Sistema Technologies, Inc.;DIR-SDD-2150 - Silotech Group, Inc;",,,
+a5p8z00000000O1AAI,DIR-000125,George Monnat,0058z000000gL5h,Texas.gov RFO Strategic Support,4/24/2017,FALSE,00570000003V3TH,00570000003V3TH,,,TRUE,00370000013TURF,0017000000Kc3Vi,Seeking a qualified Respondent (Successful Respondent) to provide Strategic Support for procurement initiatives planned for the Texas.gov program. This procurement is independent of any and all other procurement related activity(ies). DIR intends to make a single award for this procurement.,Immediate review would be in order,"3/17/17 - SOW ID# DIR-000125 has been reviewed and is approved.  
+
+DIR is providing the following comments regarding the draft SOW document. You may want to correct the issues identified below before issuing the SOW request to vendors.  
+
+?	Section 5.1, first paragraph, last sentence ? update section reference for Deliverables Expectations Document from 2.2 to 5.2.
+?	Section 5.1.2, Item 1, update ?Tx.gov? to ?Texas.gov?
+
+As of this date, one of the contracts selected DIR-SDD-2041 ? CGI Technologies and Solutions expired 3/15/2017.  The remaining six selected contracts are valid and applicable for this SOW.
+",,200000,,,,Draft Approved,0128z0000004Iqi,4/6/2017,SOW_RFO_Strategic_Support_DRAFT_3_13_17.docx,docx,3/13/2017,Item Created,"DIR-SDD-1974 - Neos Consulting Group, Llc;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-2041 - CGI Technologies and Solutions, Inc.;DIR-SDD-2187 - CSG Government Solutions, Inc.;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-2184 - Cognizant Technology Solutions U.S. Corporation;",,"DIR-SDD-1974 - Neos Consulting Group, Llc;DIR-SDD-1982 - Loblolly Consulting, LLC;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-SDD-2041 - CGI Technologies and Solutions, Inc.;DIR-SDD-2187 - CSG Government Solutions, Inc.;DIR-SDD-1968 - Cooper Consulting Company;DIR-SDD-2184 - Cognizant Technology Solutions U.S. Corporation;",,,
+a5p8z00000000O2AAI,DIR-000130,,0058z000000gL5h,Security Assessment for Payment Card Industry Data Security Standard (PCI DSS) Compliance,5/23/2017,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,0037000000TcsoY,0017000000Kc3Vi,Technical security assessment services to validate DIR compliance with the Payment Card Industry Data Security Standard (PCI DSS). Deliverables include a Report on Compliance (ROC) and an Attestation of Compliance (AOC) as a declaration of DIR?s compliance status. ,"The 6 contracts selected are based on Trustwave as a brand (Trustwave provides PCI-DSS services) and IT Security Services offering technical security assessment services. Six vendors, including the additional contract numbers section, have been selected. However, due to the SOW portal system requiring a selection of 6 contracts from the list provided, two DBITS Assessment vendors were also selected to allow submission of this SOW through the DIR SOW portal; however, these two contracts will expire before SOW responses are due. ","DIR-SDD-1976 - NTT Data, Inc.; (Expired 4/15/17)",,200000,,,,Draft Approved,0128z0000004Iqi,4/25/2017,PCI SAQ Assessment_Final.docx,docx,4/11/2017,Item Created,"DIR-TSO-3748 - Myers and Stauffer LC;DIR-TSO-2681 - M&S Technologies Inc.;DIR-TSO-3795 - Denim Group, Ltd.;DIR-SDD-2140 - Precision Task Group, Inc.;DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-TSO-2664 - Crystal Communications, LTD;DIR-TSO-3149 - Carahsoft for Trustwave Technical Services;DIR-TSO-2664 - Crystal Communications, LTD;
+",,"DIR-TSO-3748 - Myers and Stauffer LC;DIR-TSO-2681 - M&S Technologies Inc.;DIR-TSO-3795 - Denim Group, Ltd.;DIR-SDD-2140 - Precision Task Group, Inc.;DIR-SDD-1976 - NTT Data, Inc.;DIR-SDD-1978 - The Greentree Group, Inc.;DIR-TSO-2664 - Crystal Communications, LTD;","DIR-TSO-3149 - Carahsoft for Trustwave Technical Services;DIR-TSO-2664 - Crystal Communications, LTD;
+",,
+a5p8z00000000O3AAI,DIR-000134,Joan Scott,0058z000000gL5h,IT Staffing Portal,8/10/2017,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,0037000000WGRLb,0017000000Kc3Vi,The Department of Information Resources (DIR) seeks a qualified vendor to automate the IT Staffing Services competitive solicitation process through a secure portal on the DIR website.  ,,,,900000,,,,Draft Approved,0128z0000004Iqi,6/29/2017,IT Staffing Portal.pdf,pdf,6/28/2017,Item Created,"DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3841 - The Greentree Group, Inc.;",,"DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3841 - The Greentree Group, Inc.;",,,
+a5p8z00000000O4AAI,DIR-000135,,0058z000000gL5h,DBITS Project Management Services for Data Pilot Training SOW,8/11/2017,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,0037000000TcsoY,0017000000Kc3Vi,"to develop and execute a pilot training program in cooperation with a small group of agencies and higher education representatives in support of the Statewide Data Program and Department of Information Resources (DIR). The scope of the pilot course was intended develop a standalone training element consisting of 10 vignettes, 4-6 minutes each, that will eventually be integrated into the overall DIR Academy training program.","7/13/17 - review of draft Amendment only.  Original SOW was less than $50,000 and was not required to be submitted in Portal.  Agency did solicit three vendors which met the requirements for solicitations over $50K - $150K.  
+
+Draft Amendment 1 has been reviewed and is approved pending the following changes:  Deliverables and Milestone Payment Schedule remove reference to ""not to exceed 100 hours at $98/Hour"".  Pricing should be based on deliverble only.  There is reference to the hours and rate under Assumptionos, Item 2 and this is appropriate to be stated here.
+
+Allow space on Amendment Signature Page for DIR to sign as indication of approval per SB20.  This is in addition to the required signatures for the Vendor ISF and the Customer (DIR).
+
+",,,50000,,,,Draft Approved,0128z0000004Iqi,7/13/2017,SOW and Amd 1_Combined.pdf,pdf,6/29/2017,Item Created,"DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3836 - Information Systems of Florida, Inc. dba IST Century Technologies, Inc.;Congnizant Technology Solutions U.S. Corporation",,"DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3836 - Information Systems of Florida, Inc. dba IST Century Technologies, Inc.;",Congnizant Technology Solutions U.S. Corporation,,
+a5p8z00000000O5AAI,DIR-000141,,0058z000000gL5h,Wireless Assessment,1/8/2018,FALSE,00570000003V3TH,,,SOW was finalized at less than $50K,FALSE,0037000000TcsoY,0017000000Kc3Vi,Wireless Assessment for Security Controls and Compliance,3rd contract will be to Critical Start LLC - selected DIR-TSO-2538 to get through the system but not intending to send SOW to HP. ,"9/7/18 - Draft SOW status changed to Cancel. Final Awarded to Myers and Stauffer - DIR-TSO-3748. Estimated Contract Value is $20,584.32. There are no renewal options for this SOW. A final SOW will not be submitted to DIR for review/signature.
+
+
+
+12/6/17 - draft SOW approved.  E-mail sent with comment: the Scope of Work, the second paragraph references a total of six (6) separate wireless assessment engagements yet the numbers in the bulleted items do not seem to match.  You may want to review this prior to sending the solicitation.",,60000,,,,Draft Withdrawn,0128z0000004Iqo,,Wireless Assessment SOW_Oct2017_final draft.docx,docx,11/21/2017,Item Created,"DIR-TSO-3748 - Myers and Stauffer LC;DIR-TSO-3795 - Denim Group, Ltd.;DIR-TSO-2538 - HP Inc.;DIR-TSO-3898 Critical Start LLC",,"DIR-TSO-3748 - Myers and Stauffer LC;DIR-TSO-3795 - Denim Group, Ltd.;DIR-TSO-2538 - HP Inc.;",DIR-TSO-3898 Critical Start LLC,,
+a5p8z00000000O6AAI,DIR-000142,Colleen Berkley,0058z000000gL5h,ITS Application Maintenance and Support,8/17/2018,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,00370000021Rjw5,0017000000Kc3Vi,"Application and Maintenance support services for the DIR Information Technology Services (ITS) department. Scope covers 5 applications.
+
+",,,,200000,,,,Draft Approved,0128z0000004Iqi,7/6/2018,ITS_AppMainSupport_DBITS_SOW_v1.docx,docx,7/6/2018,Item Created,"DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - Information Systems of Florida, Inc. dba IST Century Technologies, Inc.;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, Llc;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-3945 - Ambonare Incorporated;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-4002 - PricewaterhouseCoopers Public Sector LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4016 - Tribridge Holdings, LLC;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4100 - C & T Information Technology, Inc.;DIR-TSO-4185 - Resource Data, Inc.;",,"DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - Information Systems of Florida, Inc. dba IST Century Technologies, Inc.;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, Llc;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-3945 - Ambonare Incorporated;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-4002 - PricewaterhouseCoopers Public Sector LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4016 - Tribridge Holdings, LLC;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4100 - C & T Information Technology, Inc.;DIR-TSO-4185 - Resource Data, Inc.;",,,
+a5p8z00000000O7AAI,DIR-000147,Colleen Berkley,0058z000000gL5h,IT Staffing Portal,4/12/2019,FALSE,00570000003V3TH,00570000003V3TH,,,TRUE,00370000021Rjw5,0017000000Kc3Vi,Agile coach and rule(s) engine for IT Staff Augmentation Contract Portal,,"3/14/19 - reviewed revised draft SOW. 
+
+3/14/19 - reloaded contracts Submitter initially selected; somehow partially deleted.
+
+",,250000,,,,Draft Approved,0128z0000004Iqi,3/14/2019,ITStaffingPortal_SOW_v1.docx,docx,2/27/2019,Item Created,"DIR-TSO-4302 - Capgemini SE;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - Information Systems of Florida, Inc. dba IST Century Technologies, Inc.;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3855 - Data Transfer Solutions, LLC;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4016 - Tribridge Holdings, LLC;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4188 - CBM Archives Co., LLC;DIR-TSO-4199 - Quacito LLC;DIR-TSO-4238 - Trademark Media Corporation DBA Mighty Citizen;DIR-TSO-4293 - Alliance Transportation Group, Inc.;",,"DIR-TSO-4302 - Capgemini SE;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - Information Systems of Florida, Inc. dba IST Century Technologies, Inc.;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3855 - Data Transfer Solutions, LLC;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4016 - Tribridge Holdings, LLC;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4188 - CBM Archives Co., LLC;DIR-TSO-4199 - Quacito LLC;DIR-TSO-4238 - Trademark Media Corporation DBA Mighty Citizen;DIR-TSO-4293 - Alliance Transportation Group, Inc.;",,,
+a5p8z00000000O8AAI,DIR-000149,Monica Presson,0058z000000gL5h,Website Redesign,9/11/2019,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,0030g00002GatN0,0017000000Kc3Vi,"The Department of Information Resources (DIR) requests responses from qualified Respondents to provide a 
+solution for DIR's website assessment, design, and development, which will include analysis, a re-architecture, 
+and a redesign of the https://dir.texas.gov/ website under a cohesive web strategy.  DIR's goal is a web presence that is easy 
+to navigate and intuitive for users, has consistent branding throughout, properly pairs DIR service offerings and 
+customer segments, provides greater transparency into agency operations, meets state and federal accessibility requirements, and 
+uses best practices for content governance to enusre DIR delivers quality content to its customers on a continous basis.
+
+",,"Per Project Manager, the SOW was sent to vendors before the SOW draft was submitted through the portal.
+
+DIR issued a statement of work for website redesign of the DIR website.  Due to the short turn-around time, the SOW was processed through the Innovative Procurement Lab. Hershel Becker was involved with the development of the SOW.  He provided a list of possible vendors to solicit that included DBITS Application Development and Application Maintenance and Support along with Comprehensive Web Development and Management.
+
+Prior to the draft SOW being uploaded in the SOW Portal, I did conduct a courtesy review of the draft SOW. The recommended changes that are typically identified in a SOW were addressed. The draft SOW status will be updated to ?approved? and the submitter will be advised through the normal process.
+
+",,1000000,,,,Draft Approved,0128z0000004Iqi,8/7/2019,DIR-CPO-FY19-007 Website Re-Design SOW.pdf,pdf,7/31/2019,Item Created,"DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4005 - Accenture LLP;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4216 - Trademark Media Corporation DBA Mighty Citizen;",,"DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4005 - Accenture LLP;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4216 - Trademark Media Corporation DBA Mighty Citizen;",,,
+a5p8z00000000O9AAI,DIR-000154,Monica Presson,0058z000000gL5h,End-user Security Training,1/28/2020,FALSE,00570000003V3TH,,,OCISO no longer needs,FALSE,0030g00002GatN0,0017000000Kc3Vi,"The Department of Information Resources (DIR) seeks a qualified vendor partner to provide a hosted, web-based security awareness education training solution to be used by DIR and DIR Customers. DIR Customers will not be required to utilize the awarded Vendor?s solution; however, DIR Customer will be able to request licenses or seats for their organization, funded by DIR. DIR?s goal is an on-line security training software solution that is easy to navigate and intuitive for users.
+This scope of work is being released only to qualified DIR contract holders. Any response to this Statement of Work (SOW) must be offered under an existing DIR Cooperative Contract and referenced on the response.
+",OCISO is looking to provide training services to its external customers asap due to recent legislation laws that have gone into effect. Review of this SOW sooner than the current estimated due date will be greatly appreciated.,"1/13/2020 - per conversation with Monica Presson, scope of work is to be revised and resubmitted.",,250000,,,,Draft Withdrawn,0128z0000004Iqo,,Enduser Security Training_SOW_Template_v1.docx,docx,12/17/2019,Item Created,"DIR-TSO-4006 - Learning Tree International USA, Inc.;DIR-TSO-4121 - Great South Texas Corporation;DIR-TSO-3823 - Mosaic451, LL;DIR-TSO-4049 - iboss, Inc;DIR-TSO-4095 - Solid Border, Inc.;DIR-TSO-4158 - Oracle America, Inc;DIR-TSO-4166 - The Oxman Group LLC;DIR-TSO-4291 - SHI Government Solutions, Inc.;DIR-TSO-3996 - International Business Machines Corporation (IBM);DIR-TSO-4114 - Ovation Data Services, Inc.;DIR-TSO-3748 - Myers and Stauffer LC;DIR-TSO-3763 - Dell Marketing LP;DIR-TSO-3795 - Denim Group, Ltd.;DIR-TSO-3796 - Complete Tablet Solutions, Ltd.;DIR-TSO-3834 - GTS Technology Solutions, Inc.;DIR-TSO-3847 - Presidio Networked Solutions Group, LLC;DIR-TSO-3898 - Critical Start, Inc.;DIR-TSO-4084 - AT&T Corp.;DIR-TSO-4124 - Deloitte & Touche LLP;DIR-TSO-4131 - Datavox, Inc;DIR-TSO-4133 - Optiv Security Inc.;DIR-TSO-4139 - Datavise Information Technology Services, Inc.;DIR-TSO-4149 - Check Point Software Technologies, Inc;DIR-TSO-4169 - Netsync Network Solutions, Inc.;DIR-TSO-4173 - PCMG, Inc. dba PCM Gov, Inc.;DIR-TSO-4384 - Absolute Facility Solutions, LLC;Seeking Coop recommendations.",,"DIR-TSO-4006 - Learning Tree International USA, Inc.;DIR-TSO-4121 - Great South Texas Corporation;DIR-TSO-3823 - Mosaic451, LL;DIR-TSO-4049 - iboss, Inc;DIR-TSO-4095 - Solid Border, Inc.;DIR-TSO-4158 - Oracle America, Inc;DIR-TSO-4166 - The Oxman Group LLC;DIR-TSO-4291 - SHI Government Solutions, Inc.;DIR-TSO-3996 - International Business Machines Corporation (IBM);DIR-TSO-4114 - Ovation Data Services, Inc.;DIR-TSO-3748 - Myers and Stauffer LC;DIR-TSO-3763 - Dell Marketing LP;DIR-TSO-3795 - Denim Group, Ltd.;DIR-TSO-3796 - Complete Tablet Solutions, Ltd.;DIR-TSO-3834 - GTS Technology Solutions, Inc.;DIR-TSO-3847 - Presidio Networked Solutions Group, LLC;DIR-TSO-3898 - Critical Start, Inc.;DIR-TSO-4084 - AT&T Corp.;DIR-TSO-4124 - Deloitte & Touche LLP;DIR-TSO-4131 - Datavox, Inc;DIR-TSO-4133 - Optiv Security Inc.;DIR-TSO-4139 - Datavise Information Technology Services, Inc.;DIR-TSO-4149 - Check Point Software Technologies, Inc;DIR-TSO-4169 - Netsync Network Solutions, Inc.;DIR-TSO-4173 - PCMG, Inc. dba PCM Gov, Inc.;DIR-TSO-4384 - Absolute Facility Solutions, LLC;",Seeking Coop recommendations.,,
+a5p8z00000000OAAAY,DIR-000155,Monica Presson,0058z000000gL5h,Telecom Fulfillment Technology Migration and Transformation,2/28/2020,FALSE,00570000003V3TH,,,Cancelled,TRUE,0030g00002GatN0,0017000000Kc3Vi,The Department of Information Resources (DIR) requests responses from qualified Respondents to provide a solution to digitally transform the Telecom Fulfillment process from a manual data entry process to a Chatbot Assisted self-service portal. DIR Telecom offers an expansive portfolio of voice and data services through TEX-AN. Texas state agencies are required to procure telecom services through TEX-AN but these services are also available to other government entities in the State of Texas. The current fulfillment process utilized BMC Helix/Remedy ITMS and requires specialized data entry by highly trained subject matter experts.,NTE is estimated between 100-500K,"2/16/2022 - email to submitter requesting updated status on Final SOW.
+3/23/2020 - revised draft SOW approved pending the section for Final System Acceptance to be updated.  Also recommended to address the document formatting to allow easier reference for the vendors being solicited.",,500000,,,,Draft Withdrawn,0128z0000004Iqo,,DIR-CPO-FY20-002 Telecom Fulfillment Technology Migration and Transformation  SOW.docx,docx,1/17/2020,Item Created,"DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - Information Systems of Florida, Inc. dba IST Century Technologies, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-CPO-4398 - SHI Government Solutions, Inc.;DIR-TSO-3849 - Microassist, Inc.;DIR-TSO-3953 - Daman Consulting, Inc.;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4118 - Ernst & Young US LLP;DIR-TSO-4138 - NTT Data, Inc.;DIR-TSO-4208 - Prolim Global Corporation;DIR-TSO-4254 - Presidio Networked Solutions Group, LLC;",,"DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - Information Systems of Florida, Inc. dba IST Century Technologies, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-CPO-4398 - SHI Government Solutions, Inc.;DIR-TSO-3849 - Microassist, Inc.;DIR-TSO-3953 - Daman Consulting, Inc.;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4118 - Ernst & Young US LLP;DIR-TSO-4138 - NTT Data, Inc.;DIR-TSO-4208 - Prolim Global Corporation;DIR-TSO-4254 - Presidio Networked Solutions Group, LLC;",,,
+a5p8z00000000OBAAY,DIR-000156,Monica Presson,0058z000000gL5h,Developer Security Training,4/15/2020,FALSE,00570000003V3TH,,,OCISO no longer needs,TRUE,0030g00002GatN0,0017000000Kc3Vi,"The Department of Information Resources (DIR) seeks a qualified vendor partner to provide a hosted, web-based security awareness education training solution to be used by DIR and DIR Customers. DIR Customers will not be required to utilize the awarded Vendor?s solution; however, DIR Customer will be able to request licenses or seats for their organization, funded by DIR.
+
+The goal of this SOW is to a program to provide training on secure application development practices that Texas state agencies and institutions of higher education can utilize in their organizations to train their application developers on secure coding practices. ",,,,300000,,,,Draft Withdrawn,0128z0000004Iqo,,Developer Security Training_SOW_Template_v1.mp-2.23.20 - SHEdits.docx,docx,3/4/2020,Item Created,"DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;",,"DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;",,,
+a5p8z00000000OCAAY,DIR-000161,Monica Presson,0058z000000gL5h,Secure Application Developer Traiing,6/23/2020,FALSE,00570000003V3TH,,,OCISO no longer needs,FALSE,0030g00002GatN0,0017000000Kc3Vi,"The goal of this SOW is to find a program to provide training on secure application development practices that Texas state agencies and institutions of higher education can utilize in their organizations to train their application developers on secure coding practices. The Vendor is required to provide details on what features, functions, or other considerations exclusive of the specified requirements either their company or the proposed security awareness education training solution afford the customer that may provide a distinct value to the State. In the event that DIR agrees that such features, functions, or other considerations do provide a district benefit, the State reserves the right to give the Vendor additional consideration.",The NTE is an estimate. Please provide service types that it would additional fall under this service to provide customer a list. Selection of vendors may vary after they're provided to customer to review and provide their preferred list.*NOTE* This SOW was originally uploaded to SOW portal weeks ago.,,,300000,,,,Draft Withdrawn,0128z0000004Iqo,,Secure Application Developer Training_SOW_ Final.docx,docx,5/12/2020,Item Created,"DIR-TSO-4292 - CBM Archives Co., LLC;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4175 - Five Points and Associates, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4188 - CBM Archives Co., LLC;DIR-TSO-4199 - Quacito LLC;DIR-TSO-4238 - Trademark Media Corporation DBA Mighty Citizen;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-TSO-4210 - ObjectWin Technology, Inc.;DIR-TSO-4255 - Ronald Walker Associates II, Inc;DIR-TSO-4121 - Great South Texas Corporation;DIR-TSO-3823 - Mosaic451, LL;DIR-TSO-4049 - iboss, Inc;DIR-TSO-4095 - Solid Border, Inc.;DIR-TSO-4158 - Oracle America, Inc;DIR-TSO-4166 - The Oxman Group LLC;DIR-TSO-4291 - SHI Government Solutions, Inc.;DIR-TSO-3996 - International Business Machines Corporation (IBM);DIR-TSO-3748 - Myers and Stauffer LC;DIR-TSO-3763 - Dell Marketing LP;DIR-TSO-3795 - Denim Group, Ltd.;DIR-TSO-3796 - Complete Tablet Solutions, Ltd.;DIR-TSO-3834 - GTS Technology Solutions, Inc.;DIR-TSO-3847 - Presidio Networked Solutions Group, LLC;DIR-TSO-3898 - Critical Start, Inc.;DIR-TSO-4084 - AT&T Corp.;DIR-TSO-4124 - Deloitte & Touche LLP;DIR-TSO-4131 - Datavox, Inc;DIR-TSO-4133 - Optiv Security Inc.;DIR-TSO-4139 - Datavise Information Technology Services, Inc.;DIR-TSO-4149 - Check Point Software Technologies, Inc;DIR-TSO-4169 - Netsync Network Solutions, Inc.;DIR-TSO-4173 - Insight Public Sector, Inc.;DIR-TSO-4384 - Absolute Facility Solutions, LLC;DIR-TSO-4006 - Learning Tree International USA, Inc.;DIR-TSO-3478 - The Remi Group, LLC;DIR-TSO-3761 - Idemia Identity & Security USA LLC;DIR-TSO-3769 - inContact, Inc;DIR-TSO-3773 - Red River Consulting Services LLC;DIR-TSO-3774 - Catapult Systems, LLC;DIR-TSO-3775 - CDW Government LLC;DIR-TSO-3776 - Eagle TG, LLC;DIR-TSO-3780 - Weaver Technologies, LLC;DIR-TSO-3781 - Microsoft Corporation;DIR-TSO-3793 - CA, Inc.;DIR-TSO-3937 - Appriss Incorporated;DIR-TSO-3976 - Innovation Network Technologies Corporation;DIR-TSO-4000 - Adjacent Technologies, Inc.;DIR-TSO-4062 - Accenture LLP;DIR-TSO-4065 - Adjacent Technologies, Inc.;DIR-TSO-4067 - Environmental Intelligence LLC;DIR-TSO-4123 - Cloud49 LLC;DIR-TSO-4130 - RE/SPEC, INC.;DIR-TSO-4159 - HP Inc.;DIR-TSO-4160 - Hewlett Packard Enterprise Company;DIR-TSO-4181 - SHI Government Solutions, Inc.;",,"DIR-TSO-4292 - CBM Archives Co., LLC;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4175 - Five Points and Associates, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4188 - CBM Archives Co., LLC;DIR-TSO-4199 - Quacito LLC;DIR-TSO-4238 - Trademark Media Corporation DBA Mighty Citizen;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-TSO-4210 - ObjectWin Technology, Inc.;DIR-TSO-4255 - Ronald Walker Associates II, Inc;DIR-TSO-4121 - Great South Texas Corporation;DIR-TSO-3823 - Mosaic451, LL;DIR-TSO-4049 - iboss, Inc;DIR-TSO-4095 - Solid Border, Inc.;DIR-TSO-4158 - Oracle America, Inc;DIR-TSO-4166 - The Oxman Group LLC;DIR-TSO-4291 - SHI Government Solutions, Inc.;DIR-TSO-3996 - International Business Machines Corporation (IBM);DIR-TSO-3748 - Myers and Stauffer LC;DIR-TSO-3763 - Dell Marketing LP;DIR-TSO-3795 - Denim Group, Ltd.;DIR-TSO-3796 - Complete Tablet Solutions, Ltd.;DIR-TSO-3834 - GTS Technology Solutions, Inc.;DIR-TSO-3847 - Presidio Networked Solutions Group, LLC;DIR-TSO-3898 - Critical Start, Inc.;DIR-TSO-4084 - AT&T Corp.;DIR-TSO-4124 - Deloitte & Touche LLP;DIR-TSO-4131 - Datavox, Inc;DIR-TSO-4133 - Optiv Security Inc.;DIR-TSO-4139 - Datavise Information Technology Services, Inc.;DIR-TSO-4149 - Check Point Software Technologies, Inc;DIR-TSO-4169 - Netsync Network Solutions, Inc.;DIR-TSO-4173 - Insight Public Sector, Inc.;DIR-TSO-4384 - Absolute Facility Solutions, LLC;DIR-TSO-4006 - Learning Tree International USA, Inc.;DIR-TSO-3478 - The Remi Group, LLC;DIR-TSO-3761 - Idemia Identity & Security USA LLC;DIR-TSO-3769 - inContact, Inc;DIR-TSO-3773 - Red River Consulting Services LLC;DIR-TSO-3774 - Catapult Systems, LLC;DIR-TSO-3775 - CDW Government LLC;DIR-TSO-3776 - Eagle TG, LLC;DIR-TSO-3780 - Weaver Technologies, LLC;DIR-TSO-3781 - Microsoft Corporation;DIR-TSO-3793 - CA, Inc.;DIR-TSO-3937 - Appriss Incorporated;DIR-TSO-3976 - Innovation Network Technologies Corporation;DIR-TSO-4000 - Adjacent Technologies, Inc.;DIR-TSO-4062 - Accenture LLP;DIR-TSO-4065 - Adjacent Technologies, Inc.;DIR-TSO-4067 - Environmental Intelligence LLC;DIR-TSO-4123 - Cloud49 LLC;DIR-TSO-4130 - RE/SPEC, INC.;DIR-TSO-4159 - HP Inc.;DIR-TSO-4160 - Hewlett Packard Enterprise Company;DIR-TSO-4181 - SHI Government Solutions, Inc.;",,,
+a5p8z00000000ODAAY,DIR-000162,Monica Presson,0058z000000gL5h,Data Management Training Development,6/23/2020,FALSE,00570000003V3TH,,,,FALSE,0030g00002GatN0,0017000000Kc3Vi,"Develop comprehensive in-person and/or webinar training, comprised of up to two (2) days of instructor led classroom or webinar setting training, for the identified four principles of the Texas Data Management Framework and Fast Start Learning Guide. The classroom or webinar sessions will include core instruction, testing for understanding and hands-on practice of the identified four principles. Classroom sessions shall be offered twice (2) live and then recorded for on-demand training of new employees. 
+
+","Initial year is estimated at $50K or under, optional renewal periods will be additional funds. The category(s) were left highlighted in the document as I'm looking for guidance to make sure the correct categories are covered.
+s. Once the categories are captured, the list of vendors will be supplied to customer for review to be hand picked.",,,50000,,,,Draft Cancelled,0128z0000004Iqo,,Data Management Training Development_Final.docx,docx,5/12/2020,Item Created,"DIR-TSO-4292 - CBM Archives Co., LLC;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4175 - Five Points and Associates, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4188 - CBM Archives Co., LLC;DIR-TSO-4199 - Quacito LLC;DIR-TSO-4238 - Trademark Media Corporation DBA Mighty Citizen;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-TSO-4210 - ObjectWin Technology, Inc.;DIR-TSO-4255 - Ronald Walker Associates II, Inc;DIR-TSO-4121 - Great South Texas Corporation;DIR-TSO-3823 - Mosaic451, LL;DIR-TSO-4049 - iboss, Inc;DIR-TSO-4095 - Solid Border, Inc.;DIR-TSO-4158 - Oracle America, Inc;DIR-TSO-4166 - The Oxman Group LLC;DIR-TSO-4291 - SHI Government Solutions, Inc.;DIR-TSO-3996 - International Business Machines Corporation (IBM);DIR-TSO-4006 - Learning Tree International USA, Inc.;DIR-TSO-3478 - The Remi Group, LLC;DIR-TSO-3761 - Idemia Identity & Security USA LLC;DIR-TSO-3769 - inContact, Inc;DIR-TSO-3773 - Red River Consulting Services LLC;DIR-TSO-3774 - Catapult Systems, LLC;DIR-TSO-3775 - CDW Government LLC;DIR-TSO-3776 - Eagle TG, LLC;DIR-TSO-3780 - Weaver Technologies, LLC;DIR-TSO-3781 - Microsoft Corporation;DIR-TSO-3793 - CA, Inc.;DIR-TSO-3937 - Appriss Incorporated;DIR-TSO-3976 - Innovation Network Technologies Corporation;DIR-TSO-4000 - Adjacent Technologies, Inc.;DIR-TSO-4062 - Accenture LLP;DIR-TSO-4065 - Adjacent Technologies, Inc.;DIR-TSO-4067 - Environmental Intelligence LLC;DIR-TSO-4123 - Cloud49 LLC;DIR-TSO-4130 - RE/SPEC, INC.;DIR-TSO-4159 - HP Inc.;DIR-TSO-4160 - Hewlett Packard Enterprise Company;DIR-TSO-4181 - SHI Government Solutions, Inc.;",,"DIR-TSO-4292 - CBM Archives Co., LLC;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4175 - Five Points and Associates, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4188 - CBM Archives Co., LLC;DIR-TSO-4199 - Quacito LLC;DIR-TSO-4238 - Trademark Media Corporation DBA Mighty Citizen;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-TSO-4210 - ObjectWin Technology, Inc.;DIR-TSO-4255 - Ronald Walker Associates II, Inc;DIR-TSO-4121 - Great South Texas Corporation;DIR-TSO-3823 - Mosaic451, LL;DIR-TSO-4049 - iboss, Inc;DIR-TSO-4095 - Solid Border, Inc.;DIR-TSO-4158 - Oracle America, Inc;DIR-TSO-4166 - The Oxman Group LLC;DIR-TSO-4291 - SHI Government Solutions, Inc.;DIR-TSO-3996 - International Business Machines Corporation (IBM);DIR-TSO-4006 - Learning Tree International USA, Inc.;DIR-TSO-3478 - The Remi Group, LLC;DIR-TSO-3761 - Idemia Identity & Security USA LLC;DIR-TSO-3769 - inContact, Inc;DIR-TSO-3773 - Red River Consulting Services LLC;DIR-TSO-3774 - Catapult Systems, LLC;DIR-TSO-3775 - CDW Government LLC;DIR-TSO-3776 - Eagle TG, LLC;DIR-TSO-3780 - Weaver Technologies, LLC;DIR-TSO-3781 - Microsoft Corporation;DIR-TSO-3793 - CA, Inc.;DIR-TSO-3937 - Appriss Incorporated;DIR-TSO-3976 - Innovation Network Technologies Corporation;DIR-TSO-4000 - Adjacent Technologies, Inc.;DIR-TSO-4062 - Accenture LLP;DIR-TSO-4065 - Adjacent Technologies, Inc.;DIR-TSO-4067 - Environmental Intelligence LLC;DIR-TSO-4123 - Cloud49 LLC;DIR-TSO-4130 - RE/SPEC, INC.;DIR-TSO-4159 - HP Inc.;DIR-TSO-4160 - Hewlett Packard Enterprise Company;DIR-TSO-4181 - SHI Government Solutions, Inc.;",,,
+a5p8z00000000OEAAY,DIR-000168,Jennifer Tram,0058z000000gL5h,Market Research for Texas.gov Payment Services,12/9/2020,TRUE,00570000003V3TH,00570000003V3TH,,,FALSE,0030g00002GaP1s,0017000000Kc3Vi,"The scope of the engagement is a report based on market research, evaluation of the 
+current Texas.gov payment services contract, and technology roadmap of public sector 
+payment processing.
+
+The report should provide recommendations based on the following:
+
+1.Provide market assessment and technology roadmap for public sector payment processing; 
+2.Evaluation of the current payment processing pricing model and prices;
+3.Review and evaluation of the current Texas.gov payment services contract in comparison 
+to market offerings;
+4.Recommendation of Payment Processor transition requirements to be included in the next 
+Texas.gov payment services Request for Offer (RFO);
+5.Evaluation of stakeholder needs.
+
+
+
+
+
+
+","12/9/20 - SOW approved; email to submitter to review the following items: 
+
+Item 4.1, Project Work Plan, is referred to as a deliverable due within 8 business days of contract award. Should the plan be accepted by DIR prior to further work being performed by the vendor? Is the Project Work Plan incorporated into the proposed Phase 1?
+Item 4.2, Bi-Weekly Status Reports, will the reports be sent to the DIR POC for internal distribution.  
+Section 5,  Acceptance, states the DIR will review and provide comment for Phases 3 and 4. Will DIR provide the vendor formal written acceptance of Phase 5, Final Report? This should be taken into consideration for the purpose of invoicing and payment. 
+
+Advised - Part of the SOW Review is ensuring that DIR Cooperative Contracts selected by the customer are appropriate for the scope of work. This SOW falls into two DBITS categories: IT Assessment/Planning and IT Procurement Assistance. The DBITS Vendors to be solicited must be awarded both of these categories. Additionally, since Deloitte Consulting LLP is the current Texas.gov Services vendor, they should not be solicited.  Below is a list of eligible vendors to solicit having both applicable DBITS categories:
+DIR-TSO-4005 - Accenture LLP;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-4028 - KPMG LLP;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4348 - Phoenix Business Inc.;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-4284 - Sciens LLC;DIR-TSO-3842 - Strata Information Group;DIR-TSO-4007 - The North Highland Company;
+
+",,,300000,,,,Draft Approved,0128z0000004Iqi,12/9/2020,Texas_Gov Payment Services Market Research SOW.pdf,pdf,12/4/2020,Item Created,"DIR-TSO-4348 - Phoenix Business Inc.;DIR-CPO-4398 - SHI Government Solutions, Inc.;DIR-CPO-4436 - Kudelski Security, Inc.;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3877 - Weaver and Tidwell, L.L.P.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3953 - Daman Consulting, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4007 - The North Highland Company;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4118 - Ernst & Young US LLP;DIR-TSO-4138 - NTT Data, Inc.;DIR-TSO-4177 - Myers and Stauffer LC;DIR-TSO-4208 - Prolim Global Corporation;DIR-TSO-4284 - Sciens LLC;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-4334 - Dyonyx, L.P.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3839 - Mission Critical Partners, LLC;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3941 - Civic Initiatives, LLC;DIR-TSO-3956 - Berry, Dunn, McNeil & Parker, LLC dba Berry, Dunn, McNeil & Parker, PLLC;DIR-TSO-4077 - Public Consulting Group, Inc.;DIR-TSO-4276 - Sourcing Advisory Services, LLC;DIR-TSO-4311 - VerdTek, Inc.;DIR-TSO-4325 - Dye Management Group, Inc.;",,"DIR-TSO-4348 - Phoenix Business Inc.;DIR-CPO-4398 - SHI Government Solutions, Inc.;DIR-CPO-4436 - Kudelski Security, Inc.;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3877 - Weaver and Tidwell, L.L.P.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3953 - Daman Consulting, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4007 - The North Highland Company;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4118 - Ernst & Young US LLP;DIR-TSO-4138 - NTT Data, Inc.;DIR-TSO-4177 - Myers and Stauffer LC;DIR-TSO-4208 - Prolim Global Corporation;DIR-TSO-4284 - Sciens LLC;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-4334 - Dyonyx, L.P.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3839 - Mission Critical Partners, LLC;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3941 - Civic Initiatives, LLC;DIR-TSO-3956 - Berry, Dunn, McNeil & Parker, LLC dba Berry, Dunn, McNeil & Parker, PLLC;DIR-TSO-4077 - Public Consulting Group, Inc.;DIR-TSO-4276 - Sourcing Advisory Services, LLC;DIR-TSO-4311 - VerdTek, Inc.;DIR-TSO-4325 - Dye Management Group, Inc.;",,,
+a5p8z00000000OFAAY,DIR-000169,Monica Presson,0058z000000gL5h,Data Optimization Project (DOP) ITSAC Resources,2/12/2021,FALSE,00570000003V3TH,00570000003V3TH,,,TRUE,0030g00002GatN0,0017000000Kc3Vi,"Solution for DIR?s Data Warehouse and Business Intelligence needs, which will include an analysis, a re-architecture, and a redesign of the current data warehouse. Design a data warehouse that helps stakeholders make better informed decisions by being able to analyze data with greater flexibility and integrate disparate system. To do this the data must be structured in a business-driven, dimensionally modeled approach that allows for queries focused on parameters, yet flexible enough to allow for many different groupings and categorization of these measures. This structure is optimized for high-performance queries as stakeholders usually need to search large amounts of transactions in a compressed and usable result set.",The correct category needed is for ITSAC which is currently not available thru this portal. NTE for this project is estimated at 1.25M throughout the years. The initial year has an estimated NTE of 350K.,"1/8/21 - email to submitter addressing items to address prior to soliciting approved vendors: the following items need to be included in the SOW:
+
+	Section 4.2, Dimensional Data Modeler ? check first paragraph. This appears to be a repeat of Section 4.1 Business Analyst
+	Section 4.3 ? Review and confirm if ?ELT? is correct. If so, define the acronym on first use. 
+	Section 6 ? Period of Performance ? review term. Should it be a base period of twelve (12) months with two (2) one-year optional renewal periods?
+	Tracking of vendor?s staff working on this project should be included as a requirement of this SOW.? For example: ?Vendor must provide weekly (bi-weekly) time report indicating the staff and hours worked the previous week. This report must be approved by DIR prior to the vendor submitting an invoice.?? You may want to add this as a reporting requirement or possibly include with Section 9, Additional Considerations. The approved time report should also be a part of what is submitted for invoicing/payment.
+	Include statement advising all work must be performed within the Contiguous 48 United States.
+	Section 14 ? Response Evaluation Criteria, 2nd paragraph update to read: In accordance with Texas Government Code, Chapters 2155.074, 2155.075, and 2157.003. Vendor performance may be used as a factor in award.
+?
+Due to ITSAC being a newly added category for SOW review, the contracts that were included as Additional Contracts are the appropriate vendors to solicit for these services.
+?
+Once these revisions have been made, you may solicit to the approved vendors. ",,1250000,,,,Draft Approved,0128z0000004Iqi,1/8/2021,Data Optimization Project - ITSAC Resource_Final_12.29.20_SOW Portal.docx,docx,12/30/2020,Item Created,"DIR-CPO-4549 - 4 Consultingg Inc.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3996 - International Business Machines Corporation (IBM);DIR-CPO-4398 - SHI Government Solutions, Inc.;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3849 - Microassist, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3953 - Daman Consulting, Inc.;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems Global Services, LLC;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4118 - Ernst & Young US LLP;DIR-TSO-4138 - NTT Data, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-TSO-4208 - Prolim Global Corporation;DIR-TSO-4254 - Presidio Networked Solutions Group, LLC;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;22nd Century Technologies, Inc.	DIR-CPO-4548
+4 Consulting Inc.	DIR-CPO-4549
+Abacus Service Corporation	DIR-CPO-4550
+Abacus Technical Services, LLC	DIR-CPO-4551
+Abdeladim & Associates	DIR-CPO-4552
+Access Sciences Corporation	DIR-CPO-4553
+Actium, Inc	DIR-CPO-4554
+Adamas Technologies Inc	DIR-CPO-4648
+Addison Group	DIR-CPO-4555
+AgreeYa Solutions Inc	DIR-CPO-4556
+Alis Software LLC	DIR-CPO-4557
+Allied Consultants, Inc.	DIR-CPO-4533
+AlphaPrimeTech Inc	DIR-CPO-4558
+Amer Technology Inc	DIR-CPO-4559
+Amzur Technologies, Inc.	DIR-CPO-4560
+Apex Systems, LLC	DIR-CPO-4541
+Appddiction Studio, LLC	DIR-CPO-4561
+Applied Information Sciences, Inc.	DIR-CPO-4562
+APS Systems, Inc.	DIR-CPO-4649
+Arch Staffing & Consulting	DIR-CPO-4650
+Ardent Technologies, Inc.	DIR-CPO-4563
+Arnamy, Inc.	DIR-CPO-4565
+Arrati Incorporated DBA TexcelVision	DIR-CPO-4545
+Ask IT Consulting, Inc.	DIR-CPO-4566
+Athomtech, Inc.	DIR-CPO-4518
+B12 Government Solutions	DIR-CPO-4519
+Bansar Technologies Inc	DIR-CPO-4534
+BMTech Group LLC	DIR-CPO-4651
+Brandt Information Services, LLC	DIR-CPO-4652
+Bravo Technical Resources, Inc.	DIR-CPO-4567
+Bresatech LLC	DIR-CPO-4535
+BuzzClan LLC	DIR-CPO-4568
+C & T Consulting Services, LLP	DIR-CPO-4569
+C & T Information Technology Consulting, Inc.	DIR-CPO-4570
+C.B.K Computing Group, LLC	DIR-CPO-4536
+California Creative Solutions, Inc.	DIR-CPO-4692
+Cambay Consulting LLC	DIR-CPO-4571
+Capitol Systems, Inc.	DIR-CPO-4520
+Capricorn Systems, Inc.	DIR-CPO-4593
+Catapult Solutions Group	DIR-CPO-4572
+CGI Technologies and Solutions, Inc.	DIR-CPO-4653
+Chandra Technologies Inc	DIR-CPO-4521
+Ciber Global, LLC	DIR-CPO-4602
+ClarusTec, Inc.	DIR-CPO-4603
+Cloud Consulting Services Inc	DIR-CPO-4604
+Cloud49 LLC	DIR-CPO-4655
+Cogent Data Solutions LLC	DIR-CPO-4522
+Cogent Infotech Corporation	DIR-CPO-4574
+Competentia Services LLC	DIR-CPO-4537
+ConnectTel, Inc.	DIR-CPO-4605
+Conquest Consulting, LLC	DIR-CPO-4656
+Coolsoft LLC	DIR-CPO-4606
+Cooper Consulting Company	DIR-CPO-4523
+Cynet Systems Inc	DIR-CPO-4607
+Cynosure Technologies LLC	DIR-CPO-4657
+Daman Consulting, Inc.	DIR-CPO-4608
+Darby Consulting, LLC	DIR-CPO-4524
+Data Systems Integration Group, Inc.	DIR-CPO-4609
+DatamanUSA, LLC DBA Texas Dataman Solutions, LLC	DIR-CPO-4610
+Digerati Systems Inc	DIR-CPO-4611
+Digital Intelligence Systems, LLC dba DISYS, LLC	DIR-CPO-4612
+Dutech Systems Inc	DIR-CPO-4658
+Dynamic Computing Services Corporation	DIR-CPO-4575
+E Quality Corporation	DIR-CPO-4659
+E-Consulting, Inc.	DIR-CPO-4660
+EKHP Consulting LLC	DIR-CPO-4580
+Encore Support Systems, L.P.	DIR-CPO-4661
+Esolvit Inc.	DIR-CPO-4613
+GB Tech Inc	DIR-CPO-4614
+Gejits Infotech Inc	DIR-CPO-4546
+Genius Road, LLC	DIR-CPO-4527
+Genuent Global, LLC	DIR-CPO-4615
+GlobalSource, Inc	DIR-CPO-4528
+GTS Technology Solutions, Inc.	DIR-CPO-4526
+Hireblazer LLC	DIR-CPO-4662
+HT Staffing Solutions, LLC	DIR-CPO-4663
+Hunter Technical Resources	DIR-CPO-4664
+ICONMA, L.L.C.	DIR-CPO-4665
+Indigo Beam, LLC	DIR-CPO-4616
+Indotronix International Corporation	DIR-CPO-4617
+infoCorvus Llc	DIR-CPO-4666
+Infojini, Inc.	DIR-CPO-4596
+Infostride, Inc.	DIR-CPO-4667
+Innosoul, Inc. dba Innosoul Information Technologies, Inc.	DIR-CPO-4576
+Integrateus LLC	DIR-CPO-4577
+Inteliblue LLC	DIR-CPO-4668
+Intellectual Capitol	DIR-CPO-4669
+Internal Data Resources, Inc.	DIR-CPO-4529
+International Projects Consultancy Services (IPCS) DBA IPCS, Inc	DIR-CPO-4619
+Knause Consulting Group, LLC	DIR-CPO-4670
+Knowledge Builders Inc. d/b/a KBI USA Inc.	DIR-CPO-4542
+LanceSoft, inc.	DIR-CPO-4581
+Loblolly Consulting, LLC	DIR-CPO-4594
+Luna Data Solutions Inc.	DIR-CPO-4582
+M9 Consulting Inc	DIR-CPO-4671
+Madiba Inc	DIR-CPO-4618
+Midtown Personnel, Inc., dba The Midtown Group	DIR-CPO-4620
+Mirage Software, Inc. dba Bourntec Solutions, Inc.	DIR-CPO-4672
+MMC Group, LP	DIR-CPO-4621
+Montrose Solutions LLC	DIR-CPO-4673
+Mouri Tech LLC	DIR-CPO-4622
+Nagarro Inc.	DIR-CPO-4583
+National Human Resources Group, Inc.	DIR-CPO-4584
+Navayuga Infotech, LLC	DIR-CPO-4623
+Neos Consulting Group, LLC	DIR-CPO-4585
+Nextgen Information Services, Inc.	DIR-CPO-4624
+NF Consulting Services	DIR-CPO-4586
+Nipun Systems Inc	DIR-CPO-4525
+NTT Data, Inc.	DIR-CPO-4587
+Onshore Outsourcing	DIR-CPO-4674
+Optimized Technical Solutions, Inc	DIR-CPO-4578
+Optimum Consultancy Services LLC	DIR-CPO-4675
+OST, Inc.	DIR-CPO-4625
+Pedigo Staffing Services, LLC	DIR-CPO-4538
+PeopleCorp America, Inc.	DIR-CPO-4676
+PMCS Services, Inc.	DIR-CPO-4579
+Precision Task Group, Inc.	DIR-CPO-4588
+Prelude Systems, Inc.	DIR-CPO-4626
+Premier Logitech, LLC	DIR-CPO-4677
+Primary General Enterprises	DIR-CPO-4627
+Procom Services America Inc.	DIR-CPO-4678
+Production Modeling Corporation	DIR-CPO-4628
+Prolim Global Corporation	DIR-CPO-4629
+PruTech Solutions, Inc.	DIR-CPO-4630
+Public Consulting Group, Inc.	DIR-CPO-4597
+Pyramid Consulting, Inc.	DIR-CPO-4679
+Rapisource LLC	DIR-CPO-4539
+Red River Technology LLC	DIR-CPO-4631
+Red Salsa Technologies, Inc	DIR-CPO-4543
+Resource Integrators, LLC	DIR-CPO-4592
+RFD & Associates, Inc.	DIR-CPO-4530
+Rhyan Technology Services, LLC	DIR-CPO-4680
+Rose International, Inc.	DIR-CPO-4601
+Savvy Technology Solutions LLC	DIR-CPO-4598
+Saxon-Global Inc	DIR-CPO-4632
+Signature Commercial Solutions, LLC. d/b/a Signature Consultants	DIR-CPO-4681
+Sistema Technologies, Inc.	DIR-CPO-4633
+Smart IMS, Inc	DIR-CPO-4599
+Soal Technologies, LLC	DIR-CPO-4531
+SourceMatch Inc.	DIR-CPO-4540
+SourcePulse, LLC	DIR-CPO-4634
+SpearMC Management Consulting, Inc.	DIR-CPO-4635
+Spruce Technology, Inc.	DIR-CPO-4532
+Spurtech Consultants, Inc.	DIR-CPO-4517
+SRB Systems, Inc.	DIR-CPO-4589
+Staffactory, LLC.	DIR-CPO-4636
+Steck Systems	DIR-CPO-4682
+SunNet Solutions Corporation	DIR-CPO-4684
+System Soft Technologies, Inc.	DIR-CPO-4637
+Tal Search Group, Inc.	DIR-CPO-4600
+Taproot Solutions Inc	DIR-CPO-4590
+TEKsystems, Inc.	DIR-CPO-4638
+Texas GovLink, Inc.	DIR-CPO-4591
+Treinen Associates, Inc.	DIR-CPO-4573
+Tri-Starr Personnel	DIR-CPO-4639
+Tryfacta, Inc.	DIR-CPO-4640
+uWork.com, Inc. dba Covendis	DIR-CPO-4685
+Vector Consulting	DIR-CPO-4641
+VerdTek, Inc.	DIR-CPO-4686
+Voluble Systems, LLC	DIR-CPO-4687
+WorkQuest	DIR-CPO-4642
+Zencon Group Inc	DIR-CPO-4688
+",,"DIR-CPO-4549 - 4 Consultingg Inc.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-TSO-3996 - International Business Machines Corporation (IBM);DIR-CPO-4398 - SHI Government Solutions, Inc.;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3835 - Visionary Integration Professionals LLC (VIP);DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3845 - RFD & Associates, Inc.;DIR-TSO-3849 - Microassist, Inc.;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3912 - Sistema Technologies, Inc.;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3953 - Daman Consulting, Inc.;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4029 - TEKsystems Global Services, LLC;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4079 - Mainline Information Systems Inc;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4118 - Ernst & Young US LLP;DIR-TSO-4138 - NTT Data, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-TSO-4208 - Prolim Global Corporation;DIR-TSO-4254 - Presidio Networked Solutions Group, LLC;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;","22nd Century Technologies, Inc.	DIR-CPO-4548
+4 Consulting Inc.	DIR-CPO-4549
+Abacus Service Corporation	DIR-CPO-4550
+Abacus Technical Services, LLC	DIR-CPO-4551
+Abdeladim & Associates	DIR-CPO-4552
+Access Sciences Corporation	DIR-CPO-4553
+Actium, Inc	DIR-CPO-4554
+Adamas Technologies Inc	DIR-CPO-4648
+Addison Group	DIR-CPO-4555
+AgreeYa Solutions Inc	DIR-CPO-4556
+Alis Software LLC	DIR-CPO-4557
+Allied Consultants, Inc.	DIR-CPO-4533
+AlphaPrimeTech Inc	DIR-CPO-4558
+Amer Technology Inc	DIR-CPO-4559
+Amzur Technologies, Inc.	DIR-CPO-4560
+Apex Systems, LLC	DIR-CPO-4541
+Appddiction Studio, LLC	DIR-CPO-4561
+Applied Information Sciences, Inc.	DIR-CPO-4562
+APS Systems, Inc.	DIR-CPO-4649
+Arch Staffing & Consulting	DIR-CPO-4650
+Ardent Technologies, Inc.	DIR-CPO-4563
+Arnamy, Inc.	DIR-CPO-4565
+Arrati Incorporated DBA TexcelVision	DIR-CPO-4545
+Ask IT Consulting, Inc.	DIR-CPO-4566
+Athomtech, Inc.	DIR-CPO-4518
+B12 Government Solutions	DIR-CPO-4519
+Bansar Technologies Inc	DIR-CPO-4534
+BMTech Group LLC	DIR-CPO-4651
+Brandt Information Services, LLC	DIR-CPO-4652
+Bravo Technical Resources, Inc.	DIR-CPO-4567
+Bresatech LLC	DIR-CPO-4535
+BuzzClan LLC	DIR-CPO-4568
+C & T Consulting Services, LLP	DIR-CPO-4569
+C & T Information Technology Consulting, Inc.	DIR-CPO-4570
+C.B.K Computing Group, LLC	DIR-CPO-4536
+California Creative Solutions, Inc.	DIR-CPO-4692
+Cambay Consulting LLC	DIR-CPO-4571
+Capitol Systems, Inc.	DIR-CPO-4520
+Capricorn Systems, Inc.	DIR-CPO-4593
+Catapult Solutions Group	DIR-CPO-4572
+CGI Technologies and Solutions, Inc.	DIR-CPO-4653
+Chandra Technologies Inc	DIR-CPO-4521
+Ciber Global, LLC	DIR-CPO-4602
+ClarusTec, Inc.	DIR-CPO-4603
+Cloud Consulting Services Inc	DIR-CPO-4604
+Cloud49 LLC	DIR-CPO-4655
+Cogent Data Solutions LLC	DIR-CPO-4522
+Cogent Infotech Corporation	DIR-CPO-4574
+Competentia Services LLC	DIR-CPO-4537
+ConnectTel, Inc.	DIR-CPO-4605
+Conquest Consulting, LLC	DIR-CPO-4656
+Coolsoft LLC	DIR-CPO-4606
+Cooper Consulting Company	DIR-CPO-4523
+Cynet Systems Inc	DIR-CPO-4607
+Cynosure Technologies LLC	DIR-CPO-4657
+Daman Consulting, Inc.	DIR-CPO-4608
+Darby Consulting, LLC	DIR-CPO-4524
+Data Systems Integration Group, Inc.	DIR-CPO-4609
+DatamanUSA, LLC DBA Texas Dataman Solutions, LLC	DIR-CPO-4610
+Digerati Systems Inc	DIR-CPO-4611
+Digital Intelligence Systems, LLC dba DISYS, LLC	DIR-CPO-4612
+Dutech Systems Inc	DIR-CPO-4658
+Dynamic Computing Services Corporation	DIR-CPO-4575
+E Quality Corporation	DIR-CPO-4659
+E-Consulting, Inc.	DIR-CPO-4660
+EKHP Consulting LLC	DIR-CPO-4580
+Encore Support Systems, L.P.	DIR-CPO-4661
+Esolvit Inc.	DIR-CPO-4613
+GB Tech Inc	DIR-CPO-4614
+Gejits Infotech Inc	DIR-CPO-4546
+Genius Road, LLC	DIR-CPO-4527
+Genuent Global, LLC	DIR-CPO-4615
+GlobalSource, Inc	DIR-CPO-4528
+GTS Technology Solutions, Inc.	DIR-CPO-4526
+Hireblazer LLC	DIR-CPO-4662
+HT Staffing Solutions, LLC	DIR-CPO-4663
+Hunter Technical Resources	DIR-CPO-4664
+ICONMA, L.L.C.	DIR-CPO-4665
+Indigo Beam, LLC	DIR-CPO-4616
+Indotronix International Corporation	DIR-CPO-4617
+infoCorvus Llc	DIR-CPO-4666
+Infojini, Inc.	DIR-CPO-4596
+Infostride, Inc.	DIR-CPO-4667
+Innosoul, Inc. dba Innosoul Information Technologies, Inc.	DIR-CPO-4576
+Integrateus LLC	DIR-CPO-4577
+Inteliblue LLC	DIR-CPO-4668
+Intellectual Capitol	DIR-CPO-4669
+Internal Data Resources, Inc.	DIR-CPO-4529
+International Projects Consultancy Services (IPCS) DBA IPCS, Inc	DIR-CPO-4619
+Knause Consulting Group, LLC	DIR-CPO-4670
+Knowledge Builders Inc. d/b/a KBI USA Inc.	DIR-CPO-4542
+LanceSoft, inc.	DIR-CPO-4581
+Loblolly Consulting, LLC	DIR-CPO-4594
+Luna Data Solutions Inc.	DIR-CPO-4582
+M9 Consulting Inc	DIR-CPO-4671
+Madiba Inc	DIR-CPO-4618
+Midtown Personnel, Inc., dba The Midtown Group	DIR-CPO-4620
+Mirage Software, Inc. dba Bourntec Solutions, Inc.	DIR-CPO-4672
+MMC Group, LP	DIR-CPO-4621
+Montrose Solutions LLC	DIR-CPO-4673
+Mouri Tech LLC	DIR-CPO-4622
+Nagarro Inc.	DIR-CPO-4583
+National Human Resources Group, Inc.	DIR-CPO-4584
+Navayuga Infotech, LLC	DIR-CPO-4623
+Neos Consulting Group, LLC	DIR-CPO-4585
+Nextgen Information Services, Inc.	DIR-CPO-4624
+NF Consulting Services	DIR-CPO-4586
+Nipun Systems Inc	DIR-CPO-4525
+NTT Data, Inc.	DIR-CPO-4587
+Onshore Outsourcing	DIR-CPO-4674
+Optimized Technical Solutions, Inc	DIR-CPO-4578
+Optimum Consultancy Services LLC	DIR-CPO-4675
+OST, Inc.	DIR-CPO-4625
+Pedigo Staffing Services, LLC	DIR-CPO-4538
+PeopleCorp America, Inc.	DIR-CPO-4676
+PMCS Services, Inc.	DIR-CPO-4579
+Precision Task Group, Inc.	DIR-CPO-4588
+Prelude Systems, Inc.	DIR-CPO-4626
+Premier Logitech, LLC	DIR-CPO-4677
+Primary General Enterprises	DIR-CPO-4627
+Procom Services America Inc.	DIR-CPO-4678
+Production Modeling Corporation	DIR-CPO-4628
+Prolim Global Corporation	DIR-CPO-4629
+PruTech Solutions, Inc.	DIR-CPO-4630
+Public Consulting Group, Inc.	DIR-CPO-4597
+Pyramid Consulting, Inc.	DIR-CPO-4679
+Rapisource LLC	DIR-CPO-4539
+Red River Technology LLC	DIR-CPO-4631
+Red Salsa Technologies, Inc	DIR-CPO-4543
+Resource Integrators, LLC	DIR-CPO-4592
+RFD & Associates, Inc.	DIR-CPO-4530
+Rhyan Technology Services, LLC	DIR-CPO-4680
+Rose International, Inc.	DIR-CPO-4601
+Savvy Technology Solutions LLC	DIR-CPO-4598
+Saxon-Global Inc	DIR-CPO-4632
+Signature Commercial Solutions, LLC. d/b/a Signature Consultants	DIR-CPO-4681
+Sistema Technologies, Inc.	DIR-CPO-4633
+Smart IMS, Inc	DIR-CPO-4599
+Soal Technologies, LLC	DIR-CPO-4531
+SourceMatch Inc.	DIR-CPO-4540
+SourcePulse, LLC	DIR-CPO-4634
+SpearMC Management Consulting, Inc.	DIR-CPO-4635
+Spruce Technology, Inc.	DIR-CPO-4532
+Spurtech Consultants, Inc.	DIR-CPO-4517
+SRB Systems, Inc.	DIR-CPO-4589
+Staffactory, LLC.	DIR-CPO-4636
+Steck Systems	DIR-CPO-4682
+SunNet Solutions Corporation	DIR-CPO-4684
+System Soft Technologies, Inc.	DIR-CPO-4637
+Tal Search Group, Inc.	DIR-CPO-4600
+Taproot Solutions Inc	DIR-CPO-4590
+TEKsystems, Inc.	DIR-CPO-4638
+Texas GovLink, Inc.	DIR-CPO-4591
+Treinen Associates, Inc.	DIR-CPO-4573
+Tri-Starr Personnel	DIR-CPO-4639
+Tryfacta, Inc.	DIR-CPO-4640
+uWork.com, Inc. dba Covendis	DIR-CPO-4685
+Vector Consulting	DIR-CPO-4641
+VerdTek, Inc.	DIR-CPO-4686
+Voluble Systems, LLC	DIR-CPO-4687
+WorkQuest	DIR-CPO-4642
+Zencon Group Inc	DIR-CPO-4688
+",,
+a5p8z00000000OGAAY,DIR-000172,Chandra Thompson,0058z000000gL5h,TEX-AN 2021 Procurement Assistance SOW,3/11/2021,FALSE,00570000003V3TH,,,SOW was canceled.,FALSE,0038z000003MPZT,0017000000Kc3Vi,"DIR requires on-going financial support through the life of the Texan 2021 Procurement and into a steady state for all Contracts resulting from the Texan 2021 procurement effort
+","This SOW is needed for procurement assistance on the TEXAN RFO solicitation and needed to be awarded by March.
+
+",2/9/21 - review placed on hold; email to submitter.,,300000,,,,Draft Withdrawn,0128z0000004Iqo,,TEX-AN 2021 Procurement Assistance SOW.docx,docx,1/27/2021,Item Created,"DIR-TSO-4348 - Phoenix Business Inc.;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3839 - Mission Critical Partners, LLC;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3941 - Civic Initiatives, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3956 - Berry, Dunn, McNeil & Parker, LLC dba Berry, Dunn, McNeil & Parker, PLLC;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4007 - The North Highland Company;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4077 - Public Consulting Group, Inc.;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4276 - Sourcing Advisory Services, LLC;DIR-TSO-4284 - Sciens LLC;DIR-TSO-4311 - VerdTek, Inc.;DIR-TSO-4325 - Dye Management Group, Inc.;",,"DIR-TSO-4348 - Phoenix Business Inc.;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3839 - Mission Critical Partners, LLC;DIR-TSO-3841 - The Greentree Group, Inc.;DIR-TSO-3842 - Strata Information Group;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3941 - Civic Initiatives, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3956 - Berry, Dunn, McNeil & Parker, LLC dba Berry, Dunn, McNeil & Parker, PLLC;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4007 - The North Highland Company;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4077 - Public Consulting Group, Inc.;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4276 - Sourcing Advisory Services, LLC;DIR-TSO-4284 - Sciens LLC;DIR-TSO-4311 - VerdTek, Inc.;DIR-TSO-4325 - Dye Management Group, Inc.;",,,
+a5p8z00000000OHAAY,DIR-000180,Jennifer Tram,0058z000000gL5h,DBITS Application Maintenance and Support Break-Fix Services,7/15/2021,FALSE,00570000003V3TH,,,End User Program has decided to pursue another route.,FALSE,0030g00002GaP1s,0017000000Kc3Vi,"Texas Department of Information Resources (DIR) Information Technology Services (ITS) seeks a qualified Respondent to provide application maintenance and support services on DIR Commercial off the Shelf (COTS), Software as a Service (SaaS) and in-house developed systems. 
+
+
+",,7/7/21 - placed on hold; agency to withdraw SOW,,170000,,,,Draft Withdrawn,0128z0000004Iqo,,SOW-04-FY21 DBITS SOW ITS Break-Fix Services.docx,docx,6/3/2021,Item Created,"DIR-CPO-4761 - Vintage Computer Brokers, Inc. dba Vintage IT Services;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4175 - Five Points and Associates, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-TSO-4210 - ObjectWin Technology, Inc.;DIR-TSO-4255 - Ronald Walker Associates II, Inc;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-CPO-4754 - GTS Technology Solutions, Inc.;DIR-CPO-4755 - CBM Archives Co., LLC;",,"DIR-CPO-4761 - Vintage Computer Brokers, Inc. dba Vintage IT Services;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3827 - Sense Corp;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3843 - Catapult Systems, LLC;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3919 - iSphere Innovation Partners LLC;DIR-TSO-3921 - McLane Group, L.P.;DIR-TSO-3925 - Neos Consulting Group, LLC;DIR-TSO-3930 - Loblolly Consulting, LLC;DIR-TSO-3932 - Go IT Services, Inc.;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3945 - Red River Consulting Services LLC;DIR-TSO-3959 - DatamanUSA, LLC DBA Texas Dataman Solutions, LLC;DIR-TSO-3960 - Allied Consultants, Inc.;DIR-TSO-3962 - Precision Task Group, Inc.;DIR-TSO-3967 - Currier McCabe and Associates, Inc.;DIR-TSO-3970 - Resource Integrators, LLC;DIR-TSO-3986 - RE/SPEC, INC.;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4076 - Technology Consortium, LLC;DIR-TSO-4078 - Indigo Beam, LLC;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4100 - C & T Information Technology Consulting, Inc.;DIR-TSO-4175 - Five Points and Associates, Inc.;DIR-TSO-4185 - Resource Data, Inc.;DIR-TSO-4207 - 22nd Century Technologies, Inc.;DIR-TSO-4210 - ObjectWin Technology, Inc.;DIR-TSO-4255 - Ronald Walker Associates II, Inc;DIR-TSO-4293 - Alliance Transportation Group, Inc.;DIR-TSO-4302 - Capgemini America, Inc.;DIR-TSO-4375 - AgreeYa Solutions Inc;DIR-CPO-4754 - GTS Technology Solutions, Inc.;DIR-CPO-4755 - CBM Archives Co., LLC;",,,
+a5p8z00000000OIAAY,DIR-000182,Sarah Noel,0058z000000gL5h,DELIVERABLE-BASED IT SERVICES  FOR TEX-AN 2021 & SHARED TECHNOLOGY SERVICES,8/2/2021,TRUE,00570000003V3TH,00570000003V3TH,,,FALSE,0030g00002GcBEi,0017000000Kc3Vi,DIR requires financial advisory services during the TEX-AN 2021 procurement and transition and STS continuous improvement and service evolution initiatives. ,,"Anticipated budget is $350,000.",,350000,,,,Draft Approved,0128z0000004Iqi,7/30/2021,Financial Assistance Services PORTAL DRAFT 7-28.docx,docx,7/28/2021,Item Created,"DIR-TSO-4005 - Accenture LLP;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4348 - Phoenix Business Inc.;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-4007 - The North Highland Company;",,"DIR-TSO-4005 - Accenture LLP;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4348 - Phoenix Business Inc.;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-4007 - The North Highland Company;",,,
+a5p8z00000000OJAAY,DIR-000183,Jennifer Tram,0058z000000gL5h,Texas.gov Payment Services Procurement Advisory and Contract Implementation Services,10/26/2021,FALSE,00570000003V3TH,00570000003V3TH,,,FALSE,0030g00002GaP1s,0017000000Kc3Vi,"The Successful Respondent will support DIR through the scope of work development, sourcing presentations, 
+evaluation, negotiations, award, and transition of the contract resulting from the Texas.gov Payment 
+Services RFO.",,,,840000,,,,Draft Approved,0128z0000004Iqi,10/26/2021,SOW-07-FY22 Texas_gov PS Proc Adv and Contract Imp Svcs 20210914.docx,docx,9/14/2021,Item Created,"DIR-TSO-4348 - Phoenix Business Inc.;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3839 - Mission Critical Partners, LLC;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3941 - Civic Initiatives, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3956 - Berry, Dunn, McNeil & Parker, LLC dba Berry, Dunn, McNeil & Parker, PLLC;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4007 - The North Highland Company;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4077 - Public Consulting Group, Inc.;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4276 - Sourcing Advisory Services, LLC;DIR-TSO-4284 - Sciens LLC;DIR-TSO-4311 - VerdTek, Inc.;DIR-TSO-4325 - Dye Management Group, Inc.;",,"DIR-TSO-4348 - Phoenix Business Inc.;DIR-TSO-3819 - Luna Data Solutions Inc.;DIR-TSO-3836 - ISF, Inc.;DIR-TSO-3839 - Mission Critical Partners, LLC;DIR-TSO-3904 - Cooper Consulting Company;DIR-TSO-3941 - Civic Initiatives, LLC;DIR-TSO-3942 - PMCS Services, Inc.;DIR-TSO-3956 - Berry, Dunn, McNeil & Parker, LLC dba Berry, Dunn, McNeil & Parker, PLLC;DIR-TSO-3974 - International Consulting Acquisition Corporation;DIR-TSO-4002 - Guidehouse LLP;DIR-TSO-4005 - Accenture LLP;DIR-TSO-4007 - The North Highland Company;DIR-TSO-4028 - KPMG LLP;DIR-TSO-4030 - Gartner, Inc.;DIR-TSO-4031 - Deloitte Consulting LLP;DIR-TSO-4032 - Grant Thornton LLP;DIR-TSO-4077 - Public Consulting Group, Inc.;DIR-TSO-4085 - CSG Government Solutions, Inc.;DIR-TSO-4091 - Access Sciences Corporation;DIR-TSO-4097 - Maximus Human Services, Inc;DIR-TSO-4276 - Sourcing Advisory Services, LLC;DIR-TSO-4284 - Sciens LLC;DIR-TSO-4311 - VerdTek, Inc.;DIR-TSO-4325 - Dye Management Group, Inc.;",,,
+a5p8z00000000OKAAY,DIR-000185,Jared Fortenberry,0058z000000gL5h,Grant Management Services,3/29/2022,TRUE,00570000003V3TH,00570000003V3TH,,,FALSE,003t000000p3vON,0017000000Kc3Vi,"DIR is seeking a Respondent to provide independent verification and validation services for ARPA fund administration activities related to federally funded SLFRF programs. Project qualification is to be performed in accordance with the specifications detailed in this scope of work.
+
+",Alternative Contact: Hershel Becker - hershel.becker@dir.texas.gov,"Draft SOW approved on 3/29/2022.  Provided notes to Hershel Becker, Jared's backup for this SOW.",,1500000,,,,Draft Approved,0128z0000004Iqi,4/4/2022,Grant Management Services SOW  Draft v2.docx,docx,3/24/2022,Item Created,"DIR-CPO-4923 - Accenture LLP;DIR-CPO-4931 - Grant Thornton LLP;DIR-CPO-4985 - Forrester Research, Inc.;DIR-CPO-4927 - Gartner, Inc.;DIR-CPO-4954 - McKinsey & Company, Inc. Washington D.C.;DIR-CPO-4966 - Weaver and Tidwell, L.L.P.;DIR-CPO-4919 - Deloitte; DIR-CPO-4969 - Ernst & Young US LLP;DIR-CPO-4925 - KPMG;",,"DIR-CPO-4923 - Accenture LLP;DIR-CPO-4931 - Grant Thornton LLP;DIR-CPO-4985 - Forrester Research, Inc.;DIR-CPO-4927 - Gartner, Inc.;DIR-CPO-4954 - McKinsey & Company, Inc. Washington D.C.;DIR-CPO-4966 - Weaver and Tidwell, L.L.P.;",DIR-CPO-4919 - Deloitte; DIR-CPO-4969 - Ernst & Young US LLP;DIR-CPO-4925 - KPMG;,,

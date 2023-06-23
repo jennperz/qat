@@ -1,0 +1,89 @@
+body{
+    background-color: #F5F7F9;
+}
+.container{
+    margin:3em;
+}
+
+.meet_container{
+
+    border-bottom: 2px solid black;
+    display:flex;
+    width:100%;
+    flex-wrap:wrap;
+    justify-content: center;
+    color:rgb(21, 21, 26);
+    font-size: 2em;
+}
+
+.reps{
+    margin:2em;
+    line-height: 1.5em;
+
+}
+
+.rep{
+    
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border: 1px solid black;
+    border-radius: 50% 50%;
+}
+
+
+
+.contacts{
+    display:flex; 
+    justify-content: center; 
+}
+
+.contact_rep{
+    
+    line-height: 2em;
+    max-width:100%;
+   
+    min-width: 500px;
+    padding:1em;
+    margin:30px;
+    text-align: center;
+
+}
+
+.staff{
+    font-size:2em;
+}
+
+.contact_details{
+    color: rgb(79, 3, 3);
+    font-weight: bolder;
+}
+
+.job-title{
+    font-weight: bolder;
+    color:rgb(79,3,3);
+    font-size:1em;
+
+}
+
+a{
+    color:rgb(49, 2, 2);
+   
+}
+
+.bottom li a{
+    text-decoration: none;
+}
+
+#faq {
+    color: rgb(221, 52, 52);
+}
+
+
+@media only screen and (max-width: 1165px) {
+    .contacts{
+        display:flex;
+        flex-wrap: wrap;
+    }
+      
+ }

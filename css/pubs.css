@@ -1,0 +1,103 @@
+
+/*  */
+ul{
+    list-style-type: none;
+}
+
+h3{
+    margin: 2em 0 ;
+}
+
+
+.parent_class{
+    width:100%;
+    display:flex;
+    min-height: 100vh;
+    background-color: #F5F7F9 ;
+}
+
+.side_menu {
+    padding-top: 10%;
+    width: calc(40%);
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+    /* background-color: darkblue; */
+    background-color: #957D4C;
+    margin-right: 2em;
+}
+
+.sidenav>li{
+    padding:1em;
+}
+
+#maincontent{
+    width:calc(60%);
+    min-height: 100%;
+    line-height:1.5em;
+    margin: 4em 4em 2em 0;
+ }
+ 
+ .pdf_ask{
+    margin-top:4em;
+ }
+
+
+ /* viewer page */
+ /* REMOVED??????????????????????????????? */
+ /* ._viewer_container {
+    height: 67vh;
+} */
+
+ dl{
+    margin:5em;
+ }
+
+ dt{
+    margin:2em 0;
+    font-weight:600;
+ }
+
+
+
+
+
+.active{
+    /* background-color:rgba(103, 101, 119, 0.778); */
+    background-color:white;
+    color:black;
+    font-weight: bolder;
+}
+
+.bottom li a{
+    text-decoration: none;
+}
+
+
+#faq {
+    color: rgb(221, 52, 52);
+}
+
+
+@media only screen and (max-width: 700px) {
+    #maincontent{
+       font-size: 12px;
+       /* padding-left: .5em; */
+    }
+ }
+
+ /* @media only screen and (max-width: 725px) {
+    dl.viewerscreen{
+       font-size: 12px;
+    }
+ } */
+ /* @media only screen and (max-width: 735px) { */
+  
+    @media only screen and (max-width: 98px) {
+        ._viewer_container {
+       /* font-size: 14px; */
+       height:auto;
+       background-color: red;
+    }
+ }
+     

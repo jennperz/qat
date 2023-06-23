@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+		<title>Digital Data Room Access Request Form</title>
+        <META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=11" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+		<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+		<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-formhelpers/2.3.0/js/bootstrap-formhelpers.js"></script>
+		<link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-formhelpers/2.3.0/css/bootstrap-formhelpers.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+	if (window.location.search.substring("finished")) {
+		alert("Thank you, your request has been submitted.");
+		location.href="https://dir.texas.gov";
+	}
+	function validateForm() {
+
+		if (grecaptcha.getResponse() == ""){
+			alert("Please complete CAPTCHA before submitting.");
+			return false;
+		}  
+	}
+</script> 
+
+<style>
+
+html, button, input, select, textarea {
+    font-family: sans-serif;
+}
+
+logo {
+    position: absolute;
+    margin:0 auto;
+    width: 100px;
+}
+
+img.print-logo {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+	
+h1  {
+    font-family: "Montserrat","sans-serif";
+    font-weight: bold;
+	color: #0099CC;	
+	font-size: 20pt;
+}
+
+h2, h3 {
+font-family: "Montserrat","sans-serif";
+    font-weight: bold;
+	color: #fff;
+	text-shadow: 0 0 7px #5d5d5d;
+	font-size: 18pt;
+	}
+
+.bg-info {
+    background-color: #0099CC !important;
+	}
+	
+	input[type="submit"] {
+		background: none repeat scroll 0 0 #0099CC !important;
+		border: 1px solid #0099CC !important;
+		border-radius: 4px;
+		color: #fff;
+		font: bold 1.05em "open Sans";
+		padding: 4px 1em;
+		text-shadow: 0 0 7px #5d5d5d;
+		cursor: pointer;
+	}
+	
+label {
+	color: #495057;
+	font-weight: bold;
+	display: block;
+	width: 100px;
+	float: left;
+}
+
+body {
+    margin-top: 20px;
+}
+
+.border-primary {
+    border-color: #000 !important;
+}
+ 
+
+</style>
+
+	</head>
+	
+	<body>
+		<div id="logo" class="row justify-content-center">
+			<img class="print-logo" src="/images/dir-logo-print.png" alt="DIR Letter Logo">
+	  </div>
+			<div class="row justify-content-center">
+			<h1>Texas Department of Information Resources</h1>
+			</div>
+			  
+			<div class="container">
+				<div class="row justify-content-center">		
+					<div class="col-12 col-md-8 col-lg-6 pb-0 pl-4 pt-1">
+					
+						<form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="POST">
+
+							<input type=hidden name="orgid" value="00D700000008U9h">
+							<input type=hidden name="retURL" value="https://qat.dir.texas.gov/dcs_data_room.html?finished=1">
+							<input type=hidden name="recordType" value="012t0000000CnkM" />								
+						
+				
+							<div class="card border-blue rounded">
+							<div class="card-header p-0">				
+								<div class="bg-info text-white text-center py-2">
+									 <h2>Digital Data Room Access Request Form</h2>                      
+								</div>
+							</div>
+							
+								<div class="card-body p-3">
+						
+									<div class="form-group">
+										<div class="input-group mb-2">
+											<div class="input-group-prepend">
+											<label for="name">Contact: </label>
+												<div class="input-group-text"><i class="fa fa-user text-info"></i>
+												</div>
+											</div>
+													
+													<input type="text" class="form-control" id="name" name="name" placeholder="Enter first and last name" required>
+										</div>
+									</div>
+						
+									<div class="form-group">
+										<div class="input-group mb-2">
+											<div class="input-group-prepend">
+												<label for="company">Company:</label>
+												<div class="input-group-text"><i class="fa fa-briefcase text-info"></i></div>
+											</div>
+										
+												<input type="text" class="form-control" id="company" name="company" placeholder="Enter company name" required>
+										</div>
+									</div>
+						
+									<div class="form-group">
+										<div class="input-group mb-2">
+											<div class="input-group-prepend">
+											<label for="email">Email: </label>
+												<div class="input-group-text"><i class="fa fa-envelope text-info"></i></div>
+											</div>
+												<input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required>
+										</div>
+									</div>
+						
+									<div class="form-group">
+										<div class="input-group mb-2">
+											<div class="input-group-prepend">
+											<label for="phone">Phone: </label>
+											<div class="input-group-text"><i class="fa fa-phone-square text-info"></i></div>
+											</div>															
+												<input type="text" id="phone" class="form-control input-medium bfh-phone" name="phone" placeholder="xxx-xxx-xxxx" data-format="ddd-ddd-dddd" required> 
+					  
+										
+					<input type="hidden"  id="external" name="external" value="1" />					
+									</div>											  
+									<div class="form-group">
+									<div class="input-group mb-2">
+									 <div class="input-group-prepend">
+									<label for="captcha">Captcha: </label>
+									<div class="g-recaptcha" data-sitekey="6Le0zZMUAAAAAHjMKyLX6zSoOxpad8zCVARY_2p5"></div></div>
+										<input type="submit" name="submit" value="Submit" class="btn btn-info btn-block rounded-0 py-2" onClick="return validateForm(); " ></div>
+					</div>															
+					<p style="text-align:center"><strong>After registering, DIR will send a confirmation email with a link to access the Digital Data Room.</strong></p>
+
+							
+
+									</div>		
+								</div>						
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>	
+	</body>							
+</html>				              
