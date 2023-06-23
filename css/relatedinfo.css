@@ -21,7 +21,7 @@ body{
     justify-content: center;
     align-items: center;
     /* color:white; */
-    color: darkblue;
+    color: #1D233A;;
 }
 
 .related_links{
@@ -38,7 +38,7 @@ a.linked:hover{
 
 .linked{
     text-decoration: none;
-    color:darkblue;
+    color:#1D233A;;
     font-weight: bolder;
     /* color:white; */
     /* color:#1D233A; */
@@ -60,7 +60,8 @@ a.linked:hover{
         margin-top: 2em;
         padding: 1em 2em;
         /* color: rgb(156, 81, 20); */
-        background-color: #041F28;
+        /* background-color: #041F28; */
+        background-color: #1D233A;
         font-weight: bolder;
         color: white;
         border-radius: 2px;
