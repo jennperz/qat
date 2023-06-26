@@ -24,6 +24,16 @@
     margin-top:2em;
     font-weight:600;
     font-size:32px;
+    color: #957D4C;
+}
+
+.training_videos{
+    margin-top:5em;
+}
+
+.page_title{
+    text-align: center;
+    color: #957D4C;
 }
 
 .video_description{
