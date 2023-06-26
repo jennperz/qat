@@ -43,7 +43,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <title>Quality Assurance Team</title>
-    <script type="text/javascript"></script>
+    
     
     <style type="text/css" media="all">
       @import url(css/style.css);
@@ -63,7 +63,6 @@
     <!-- navbar -->
     <div class="navbar_container">
         <div class="logo_image">
-          <!-- <img class="state" src="./images/texasstate.png" alt="texas state"> -->
           
           <a href="/index.htm"><img class="state" src="./images/statelogo.png" alt="texas state"></a>
         </div>
@@ -80,51 +79,25 @@
 
     </div>
 
-    <div class="menu_items">
+    <nav class="menu_items">
       <ul>
         <li><a class="links" href="pubs.htm">Publications</a></li>
         <!-- <li><a class="links" href="/trainings.htm">Training Resources</a></li> -->
         <li><a class="links" href="/trainings.htm">Training Resources</a></li>
         <li><a class="links" href="relatedinfo.htm">QAT Resources</a></li>
       </ul>
-    </div>
+    </nav>
 
     <!-- jumbotron -->
 
 
 
-<!-- 
-    <div class="container">  
-    <div class="main_image"> 
-      <img src="https://cdn.pixabay.com/photo/2019/03/14/20/57/texas-4055908_1280.jpg"/>    
-       <img src="./images/capitol_p.png"/> 
-    </div>
-  </div>  
-
- <div class="about">
-    <h1 class="qat_intro">What is QAT?</h1>
-    <p class="about_section">
-       <h1 class="qat_intro">What is QAT?</h1> 
-      The Quality Assurance Team (QAT) implements a consistent and repeatable approach for quality assurance review of technology projects within Texas. Projects are continually assessed to help reduce the likelihood that a project will not deliver a quality solution based on the schedule, budget, and scope commitments made to state leadership.</p>
-  </div> -->
-
-
     <!-- general -->
 
     <div class="boxed"> 
-    <!-- <div class="general">
-      <p class="section_title">General Information</p>
-    </div> -->
-
- 
- <!-- <div class="s_authority"> -->
+  
  
   <div class="auth_row">
-   <!-- <div class="authority_img"></div> -->
-      <!-- <div class="_authority_content">  
-      <p class="title">Statutory Authority</p>
-      <div class="content">The 73rd Legislature (1993) enacted Article V, Section 133 of the General Appropriations Act. This Act established the Quality Assurance Team (QAT) comprised of representatives from the Legislative Budget Office (LBB), the State Auditor’s Office (SAO), and the Department of Information Resources (DIR) to approve and review major information resources projects. The 74th Legislature continued emphasis on quality assurance by including an Article IX rider in the General Appropriations Act that established a quality assurance review process that must be followed for all major information resources projects. Such a rider has been continued in all subsequent General Appropriation Acts.</div>
-       </div> -->
 
        <div class="_authority_content">
         <p class="title">What is QAT?</p>
@@ -133,7 +106,6 @@
       </div>
 
        <div class="authority_img">
-        <!-- <img class="foto" src="./images/sa.PNG"/> -->
         <img class= "foto" src="./images/capitol_p.png"/>
        </div>
 
@@ -205,7 +177,7 @@
                       more content here
                     </div>
                     <div class="link_external">
-                      <!-- <button class="btn_">Calendar</button> -->
+                      
                       <button class="btn_"><a href="./calendarpage.htm" target="_blank">Calendar</a></button>
                     </div>
                 </div>
@@ -251,6 +223,15 @@
     </div>
  
 
-  
+    <script type="text/javascript">
+
+      const activePage=window.location.pathname;
+      const navLinks=document.querySelectorAll('nav a').forEach(link=>{
+        if(link.href.includes(`${activePage}`)){
+          link.classList.add('active');
+        } 
+      })
+   
+    </script>
   </body>
 </html> 
